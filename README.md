@@ -1,2 +1,3 @@
 # myengsite
-Website for improving my English writing
+ * Website for improving my English writing
+ * using hugo
