@@ -2,6 +2,6 @@ baseURL = "https://japer-eng.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-kiera"
-
+summaryLength = 10
 [params]
     tagline = "the tagline for this website"
