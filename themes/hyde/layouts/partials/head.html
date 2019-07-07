@@ -4,6 +4,9 @@
   <link href="//gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   {{ hugo.Generator }}
+  <meta name="author" content="{{.Site.Params.Author }}">
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="keywords" content="{{ delimit .Site.Params.Keywords ", " }}" >
 
   <!-- Enable responsiveness on mobile devices-->
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

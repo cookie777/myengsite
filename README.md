@@ -26,3 +26,21 @@ html {
   font-size: 3.25rem;
 }
 ```
+
+## SEO関係
+
+### 著者、サイト説明、キーワード追加
+
+config.tomlに以下を追加
+```toml
+[params]
+author = "著者"
+keywords = ["ここに キーワード","追加"]
+description = "説明"
+```
+head.html系などテーマのmetaを記述している部分に以下を追加
+```html
+  <meta name="author" content="{{.Site.Params.Author }}">
+  <meta name="description" content="{{ .Site.Params.description }}">
+  <meta name="keywords" content="{{ delimit .Site.Params.Keywords ", " }}" >
+```
