@@ -47,6 +47,7 @@ In terms of knowledge, it is more effective to remember what they are told than 
  * 問題よんで、日本語の構築→４分
  * 5分で約60文字
 
+ * 日本語での構成がめちゃ重要。論理的、つながりや書きやすいようりに
 
 # 使うとよさそうなテンプレ
 
