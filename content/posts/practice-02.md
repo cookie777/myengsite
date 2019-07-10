@@ -32,11 +32,11 @@ Some students prefer classes with frequent discussions between the professor and
 There is a lot of impact on how the professor teach students. In my opinion, it is better to argue with each other than just doing lecture. I suggest this idea for 3 reasons, which i will explain in following essay.
 
 ## Body1
-Socially, it is said that communication skills are vital to live. This talen is useful not only when you are working, but also in any ohter personal situation. If you don't practice discussion, and just listen what people say, you can not make yourself improved. In order to persuade someone or do what you want, you must improve this talent.
+Socially, it is said that communication skills are vital to live. This talen is useful not only when you are working, but also in any other personal situation. If you don't practice discussion, and just listen what people say, you can not make yourself improved. In order to persuade someone or do what you want, you must improve this talent.
 
 
 ## Body2
-In terms of knowledge, it is more effective to remember what they are told than just lesting the word. When you want to discuss something, you must understand what you are told first. So talking with each other strength your understanding. This means it is more useful than listening your teacher. Besides, if you only want to get information, you don't have to go to class. The meaning of visiting school is to interact someone.
+In terms of knowledge, it is more effective to remember what they are told than just listening the word. When you want to discuss something, you must understand what you are told first. So talking with each other strength your understanding. This means it is more useful than listening your teacher. Besides, if you only want to get information, you don't have to go to class. The meaning of visiting school is to interact someone.
 
 ## Conclusion
 In conclusion, I prefer doing many discussions in the class from the viewpoint of sociability and knowledge.
