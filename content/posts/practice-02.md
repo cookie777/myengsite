@@ -41,16 +41,23 @@ In terms of knowledge, it is more effective to remember what they are told than 
 ## Conclusion
 In conclusion, I prefer doing many discussions in the class from the viewpoint of sociability and knowledge.
 
-(25minutes 192words)
 
 
 # Review
+
+ * Duration
+   * (25minutes 192words)
+   * 7/8-7/10
+  
  * 問題よんで、日本語の構築→４分
  * 25分で200文字 かなり遅い(;_;)
  * これの倍くらいはスピードアップが必要…
- * 日本語での構成がめちゃ重要。論理的、つながりや書きやすいようりに
+ * 日本語での構成がめちゃ重要。論理的、つながりや書きやすいように
 
 # 使うとよさそうなテンプレ
+
+## 構成作成時
+論理的、つながり、接続詞や書きやすいように
 
 ## intro
 〜が影響たくさん、あるのはしっている。私の意見では「」＋　〜の観点から. I feel this way for two reasons, which I will explore in the following essay.
