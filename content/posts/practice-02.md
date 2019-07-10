@@ -26,27 +26,28 @@ Some students prefer classes with frequent discussions between the professor and
 
 
 結論。２つてんからディスカッション方式をすすめる
-[^lap1]
+
 
 ## Intruduction
 There is a lot of impact on how the professor teach students. In my opinion, it is better to argue with each other than just doing lecture. I suggest this idea for 3 reasons, which i will explain in following essay.
 
-## body1
-Socially, it is said that communication skills are vital to live. This talen is useful not only when you are working, but also ohter personal life. If you don't practice discussion, ann just listen what people say, you can not make yourself improved. In order to persuade someone or do what you want, you must improve this talent.
-<!-- Socially, it is said that communination skiis are important to make a life. If you tend to listen what they say and think and tell what you want, your talent of discussion must improve. This training can do if you are at hoome.  -->
+## Body1
+Socially, it is said that communication skills are vital to live. This talen is useful not only when you are working, but also in any ohter personal situation. If you don't practice discussion, and just listen what people say, you can not make yourself improved. In order to persuade someone or do what you want, you must improve this talent.
 
-## body2
-In terms of knowledge, it is more effective to remember what they are told than just lesting the word.[^lap2] It is said that 
 
-## conclusion
+## Body2
+In terms of knowledge, it is more effective to remember what they are told than just lesting the word. When you want to discuss something, you must understand what you are told first. So talking with each other strength your understanding. This means it is more useful than listening your teacher. Besides, if you only want to get information, you don't have to go to class. The meaning of visiting school is to interact someone.
 
-[^lap1]: +4 minutes
-[^lap2]: +5 minutes
+## Conclusion
+In conclusion, I prefer doing many discussions in the class from the viewpoint of sociability and knowledge.
+
+(25minutes 192words)
+
 
 # Review
  * 問題よんで、日本語の構築→４分
- * 5分で約60文字
-
+ * 25分で200文字 かなり遅い(;_;)
+ * これの倍くらいはスピードアップが必要…
  * 日本語での構成がめちゃ重要。論理的、つながりや書きやすいようりに
 
 # 使うとよさそうなテンプレ
