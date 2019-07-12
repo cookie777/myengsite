@@ -31,7 +31,7 @@ Do you agree or disagree with the following statement? It is better to use print
 The technology of the Internet has improved so rapidily that we also can get a lot of  information without using printed paper. In my opinion,  I think using Internet is much more useful than using paper when you want to research somthing. This idea is supported by twe reasons, which I will explore in the folloing essay. @5
 
 ## Body1
-
+From the viewpoint of efficiency, it is much easier to find the word or phrase you want to search than using printed papaer. This is because when you use internet, you only have to fill in the word and then, a lot of data are shown in the very short moment. This cannot be done in the real papar. Furthermore, you can mark the word and count it that you are seeking by using Internet and computer. It will take plenty of time if you want to do this in the paper. @7:30
 
 
 ## Body2
@@ -42,10 +42,14 @@ The technology of the Internet has improved so rapidily that we also can get a l
 
 # Review
 * 7/11 
-  * 問題文読み取り＋日本語構成 5 min
+  * 問題文読み取り＋日本語構成 5 min =11.4 wpm
   * intro 5 min
   * おそい！(;_;)  大文字は全部むしして最初は全部小文字→後から修正の方が早くなるかも？
 
+* 7/12
+  * 1つ目の段落 +7:30 92文字 =12.26 wpm
+  * おそい！ けど少しはやくなった！
+  * 日本語のメモはリアルの紙で書いて、そこを参照しながらのほうが早いかも？
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
