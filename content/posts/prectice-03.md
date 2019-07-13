@@ -21,7 +21,7 @@ Do you agree or disagree with the following statement? It is better to use print
     持ち物かさばる→探すのに時間がかかる、管理に時間がかかる
     ＋エピソード
 
-環境面から、エコである
+経済的に、やすい
     プリントすると髪を印刷、無駄
     ＋エピソード
 
@@ -35,7 +35,7 @@ From the viewpoint of efficiency, it is much easier to find the word or phrase y
 
 
 ## Body2
-
+Economically, it is less expensive to use Internet. When I was young, there is no computer in my home and when I want to search something, I always had to go to the library or had to buy books or magazines. This costed not only a lot of many but also plenty of time. I think time is money. You can save much money and time with using Internet, and you only have to pay at most 4,000 yen in a month. Furthermore, if you borrow or purchase books, you need a lot of space to stock them. This also bothers your brain.
 
 ## Conclusion
 
@@ -51,6 +51,12 @@ From the viewpoint of efficiency, it is much easier to find the word or phrase y
   * おそい！ けど少しはやくなった！
   * 日本語のメモはリアルの紙で書いて、そこを参照しながらのほうが早いかも？
 
+* 7/13
+  * 2つ目の段落 +8:00 101 = 12.62 wpm
+  * よくやれてる。内容を考える＋スペルに気をつける でかなり遅くなってしまう
+  * やはり日本語メモをリアル紙で各方法はありかも。次回からそうしたい
+  * 各bodyも構成のテンプレがあるっぽいかも。うまく行けば水増しできる( ･`ω･´)
+
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
 論理的、つながり、接続詞や書きやすいように
@@ -59,6 +65,14 @@ From the viewpoint of efficiency, it is much easier to find the word or phrase y
 〜が影響たくさん、あるのはしっている。私の意見では「」＋　〜の観点から. I feel this way for two reasons, which I will explore in the following essay.
 
 ## body
+### 構成
+* 文頭 ＋結論
+* ちょっとうんちく、大げさな一般例
+* 自分のどうでもいいエピソード、具体例
+* また締めの結論
+
+### 文頭
+* Environmentally 環境的に
 * Culturally 文化的に
 * Scientifically 科学的に
 * Spiritually 精神的に
@@ -68,8 +82,8 @@ From the viewpoint of efficiency, it is much easier to find the word or phrase y
 * Economically 経済的に
 * From a professional viewpoint 専門的な観点から
 * In terms of ~ , From the viewpoint of~ 〜の観点から
-* 具体例の詳細さで文字数を稼ぐ
 * In the first place まず、第一に
+
 
 ## conclusion
 In conclusion 私は「」。なぜなら〜の観点から
