@@ -1,13 +1,13 @@
 baseURL = "https://japer-eng.netlify.com/"
 languageCode = "en-us"
-title = "TOEFLのライティングが絶望的な件について"
+title = "私のTOEFLライティングが絶望的な件について"
 theme = "hyde"
 summaryLength = 25
 
 [params]
 author = "japer"
-keywords = ["Toefl","Writing","practicing","blog"]
-description = "Toeflのwritingを鍛えるためのブログ。writing(independent)は30分で400文字くらい書かないと行けない。自分の現在は15分で100文字という絶望的状態。そこで毎日5分100文字を目標に投稿。無理しないでちまちま"
+keywords = ["Toefl","Writing","practice","blog"]
+description = "TOEFLのwritingを鍛えるためのブログ。writing(independent)は20分で400文字=20wpmくらい書かないと行けない。自分の現在は6~10wpmという絶望的状態。そこでTOEFLの模擬問題を分割して解き、毎日投稿。無理しないでちまちま"
 
 
 
