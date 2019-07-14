@@ -35,10 +35,10 @@ From the viewpoint of efficiency, it is much easier to find the word or phrase y
 
 
 ## Body2
-Economically, it is less expensive to use Internet. When I was young, there is no computer in my home and when I want to search something, I always had to go to the library or had to buy books or magazines. This costed not only a lot of many but also plenty of time. I think time is money. You can save much money and time with using Internet, and you only have to pay at most 4,000 yen in a month. Furthermore, if you borrow or purchase books, you need a lot of space to stock them. This also bothers your brain.
+Economically, it is less expensive to use Internet. When I was young, there is no computer in my home and when I want to search something, I always had to go to the library or had to buy books or magazines. This costed not only a lot of many but also plenty of time. I think time is money. You can save much money and time with using Internet, and you only have to pay at most 4,000 yen in a month. Furthermore, if you borrow or purchase books, you need a lot of space to stock them. This also bothers your brain.＠8：00
 
 ## Conclusion
-
+In conclusion, i assert that online recourses is musch better than printed material. This is because it doesn't take time and easy to researsh and it is less expensive.＠2:30
 
 # Review
 * 7/11 
@@ -56,6 +56,10 @@ Economically, it is less expensive to use Internet. When I was young, there is n
   * よくやれてる。内容を考える＋スペルに気をつける でかなり遅くなってしまう
   * やはり日本語メモをリアル紙で各方法はありかも。次回からそうしたい
   * 各bodyも構成のテンプレがあるっぽいかも。うまく行けば水増しできる( ･`ω･´)
+
+* 7/14
+  * conclusion 29文字 2.5分 = 11wpm
+  * しらん つぎつぎ
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
@@ -86,7 +90,7 @@ Economically, it is less expensive to use Internet. When I was young, there is n
 
 
 ## conclusion
-In conclusion 私は「」。なぜなら〜の観点から
+In conclusion 私は [結論]。なぜなら「〜の観点 bodyで述べた理由」だから
 
 ## vacabulary
 * [影響(n)の違い](https://je.at.webry.info/201209/article_29.html)
