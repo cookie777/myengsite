@@ -1,31 +1,41 @@
-# myengsite
+# Myengsite
  * Website for improving my English writing
  * using hugo
 
 
-## テーマの改造
+# Hugo command
+```bash
+docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo
+docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo rver --bind=0.0.0.0 -w --disableFastRender -D
+docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo w posts/prectice-04.md
+```
+
+# Customized history
+
+## Initalized
  * hydeを使用
  * .gitを削除（二重管理をふせぐため）
- * 日本語のフォントをきれいに魅せるためhyde.cssを修正
 
-全体のフォント
+## Modified fonts
+ * add webfont in head_fonts.html
+  ```html
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet">
+  ```
+
+ * changed font_family in hyde.css (2 places)
 ```css
-html {
-  /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
-  font-family: "PT Sans", Helvetica, Arial, sans-serif, 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
-}
+font-family: 'Lato', 'Noto Sans JP', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 ```
-タイトルのフォント(サイドバーの見出し)
-```css
-/* About section */
-.sidebar-about h1 {
-  color: #fff;
-  margin-top: 0;
-  /* font-family: "Abril Fatface", serif; */
-  font-family: "PT Sans", Helvetica, Arial, sans-serif, 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
-  font-size: 3.25rem;
-}
+
+## [Add SNS share buttons](http://hugocodex.org/add-ons/share-buttons/)
+ * Step 1. Download the file share-buttons.html 
+ * Step 2. Save the file in the ‘layouts/partials’ directory of your project 
+ * Step 3. Add the following line to your layout on the place where you want the share buttons to appear:
+```hugo
+{{ partial "share-buttons.html" . }}
 ```
+ * This time, I added in `single.html`
+ * Disable(comment out) all buttons except twitter in `single.html`
 
 ## SEO関係
 

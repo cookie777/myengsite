@@ -10,10 +10,4 @@ keywords = ["Toefl","Writing","practicing","blog"]
 description = "Toeflのwritingを鍛えるためのブログ。writing(independent)は30分で400文字くらい書かないと行けない。自分の現在は15分で100文字という絶望的状態。そこで毎日5分100文字を目標に投稿。無理しないでちまちま"
 
 
-# docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo
-# docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo server --bind=0.0.0.0 -w --disableFastRender -D
-# docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo new posts/prectice-04.md
 
-# customized history
-# add webfont in head_fonts.html
-# changed font_family in hyde.css

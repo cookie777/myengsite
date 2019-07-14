@@ -8,17 +8,21 @@ It pairs a prominent sidebar with uncomplicated content.
 
 ## Contents
 
-- [Installation](#installation)
-- [Options](#options)
-  - [Sidebar menu](#sidebar-menu)
-  - [Sticky sidebar content](#sticky-sidebar-content)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-  - [Disqus](#disqus)
-  - [Google Analytics](#google-analytics)
-- [Author](#author)
-- [Ported by](#ported-by)
-- [License](#license)
+- [Hyde](#Hyde)
+  - [Contents](#Contents)
+  - [Installation](#Installation)
+    - [Quick Start](#Quick-Start)
+    - [Standard Installation](#Standard-Installation)
+  - [Options](#Options)
+    - [Sidebar menu](#Sidebar-menu)
+    - [Sticky sidebar content](#Sticky-sidebar-content)
+    - [Themes](#Themes)
+    - [Reverse layout](#Reverse-layout)
+    - [Disqus](#Disqus)
+  - [Google Analytics](#Google-Analytics)
+  - [Author](#Author)
+  - [Ported By](#Ported-By)
+  - [License](#License)
 
 
 ## Installation
