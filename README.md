@@ -17,6 +17,7 @@ docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo w po
  * .gitを削除（二重管理をふせぐため）
 
 ## Modified fonts
+### main font
  * add webfont in head_fonts.html
   ```html
     <link href="https://fonts.googleapis.com/css?family=Lato:400,700|Noto+Sans+JP:400,700" rel="stylesheet">
@@ -26,6 +27,8 @@ docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo w po
 ```css
 font-family: 'Lato', 'Noto Sans JP', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 ```
+### discripsion font
+`pool.css` font-size: 1.0rem;
 
 ## [Add SNS share buttons](http://hugocodex.org/add-ons/share-buttons/)
  * Step 1. Download the file share-buttons.html 
