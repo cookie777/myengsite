@@ -34,7 +34,7 @@
 html {
   /* font-family: "PT Sans", Helvetica, Arial, sans-serif; */
   /* this is japer fix */
-  font-family: "PT Sans", Helvetica, Arial, sans-serif, 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+  font-family: 'Lato', 'Noto Sans JP', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -83,7 +83,7 @@ html {
   margin-top: 0;
   /* font-family: "Abril Fatface", serif; */
   /* this is japer fix */
-  font-family: "PT Sans", Helvetica, Arial, sans-serif, 'Hiragino Kaku Gothic Pro','ヒラギノ角ゴ Pro W3','メイリオ',Meiryo,'ＭＳ Ｐゴシック',sans-serif;
+  font-family: 'Lato', 'Noto Sans JP', '游ゴシック Medium', '游ゴシック体', 'Yu Gothic Medium', YuGothic, 'ヒラギノ角ゴ ProN', 'Hiragino Kaku Gothic ProN', 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
   font-size: 3.25rem;
 }
 
