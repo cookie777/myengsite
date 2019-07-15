@@ -14,10 +14,10 @@ draft: false
 ### Japanese-note
 +4 minutes
 ## Introduction
-It is said that grades have a lot of effect on students feeling for studyting. In my opinion, I think it is better to show scores when they do something. I assert this idea for several reasons, which I will explain in the following paragraphs. +3
+It is said that grades have a lot of effect on students feeling for studyting. In my opinion, I think it is better to show score when they try something. I assert this idea for several reasons, which I will explain in the following paragraphs. +3
 
 ## Body1
-
+To begin with, it is much easier to recognize your weakness by using score. You can know what you are good at and what you are not good at. For example, when I was high school student, there were many tests. It was hard, but soon I could understand that I was not good at history , especially about modern events, and it makes me easier to know my problem. Thus, I studied history hard, and finally I became able to understand more about it . So, I think telling score is effective to improve yourself.
 ## Body2
 
 ## Conclusion
@@ -29,6 +29,11 @@ It is said that grades have a lot of effect on students feeling for studyting. I
   * おそらくテンプレがあるおかげ
   * あとはなるべく複雑に考えない。簡単な言い方でシンプル、はやく
   * 次回はbody. 結論→examples,exerience →結論で水増しや :)
+*  7/15
+   *  94words in 8 mitunes = 11.5 wpm
+   *  めっちゃ下がった (;_;)
+   *  でも今まで一番bodyが書きやすかった
+   *  やっぱりbodyでも結論→エピソード、具体例→結論 のテンプレは書きやすい
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
@@ -54,7 +59,8 @@ It is said that grades have a lot of effect on students feeling for studyting. I
 * Personally, From a personal angle 個人的に
 * Economically 経済的に
 * From a professional viewpoint 専門的な観点から
-* In terms of ~ , From the viewpoint of~ 〜の観点から
+* In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
+* From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
 * In the first place まず、第一に
 
 
