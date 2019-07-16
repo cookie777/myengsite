@@ -28,6 +28,11 @@
   <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
   {{- end }}
 
+  <meta name="twitter:card" value="summary_large_image"/>
+  <meta name="twitter:site" value="{{ .Site.Params.twitter_auther }}" />
+  <meta name="twitter:creator" value="{{ .Site.Params.twitter_auther }}" />
+  <meta name="twitter:title" value="{{ .Title }}"/>
+  <meta name="twitter:description" value="{{ .Site.Params.description }}"/>
 
 
   {{ if .IsHome -}}
