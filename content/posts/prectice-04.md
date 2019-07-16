@@ -18,22 +18,31 @@ It is said that grades have a lot of effect on students feeling for studyting. I
 
 ## Body1
 To begin with, it is much easier to recognize your weakness by using score. You can know what you are good at and what you are not good at. For example, when I was high school student, there were many tests. It was hard, but soon I could understand that I was not good at history , especially about modern events, and it makes me easier to know my problem. Thus, I studied history hard, and finally I became able to understand more about it . So, I think telling score is effective to improve yourself.
-## Body2
 
+## Body2
+From the view point of motivation, sometime showing grades makes people to improve themselves. For examples, when I was a student, I was good at English. One day I had a test and my result was almost 100. This made me happy. Furthermore, there were some people that also got nearly 100 score but no one got 100.  Because of this result, I thought "I wanted to get 100 score. If I had 100, I would be the only one guy in the class!" So I studied English harder than before. This experience shows that showing subjective result sometimes make people more motivated.
+ +10
 ## Conclusion
 
 # Review
 * 7/14
-  * 45words in 3 mintunes = 15 wpm 
+  * 45words in 3 minutes = 15 wpm 
   * めっちゃ上がった！
   * おそらくテンプレがあるおかげ
   * あとはなるべく複雑に考えない。簡単な言い方でシンプル、はやく
   * 次回はbody. 結論→examples,exerience →結論で水増しや :)
 *  7/15
-   *  94words in 8 mitunes = 11.5 wpm
+   *  94words in 8 minutes = 11.5 wpm
    *  めっちゃ下がった (;_;)
    *  でも今まで一番bodyが書きやすかった
    *  やっぱりbodyでも結論→エピソード、具体例→結論 のテンプレは書きやすい
+
+* 7/16
+  * 98words in 10 minutes = 10 wpm
+  * 過去最悪の遅さ〜　(´；ω；｀)
+  * でもタイピング自体は早くなってきてる気がする
+  * 途中、同表現したらいいか　わからなくてめちゃくちゃ滞った
+  * そういうとき、どこまで戻るか、やり直すかの瞬時の決断がまよう
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
