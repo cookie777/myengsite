@@ -1,4 +1,4 @@
-baseURL = "https:/japer-eng.netlify.com/"
+baseURL = "https://japer-eng.netlify.com/"
 languageCode = "en-us"
 title = "自分のTOEFLライティングが絶望的な件について"
 theme = "hyde"
