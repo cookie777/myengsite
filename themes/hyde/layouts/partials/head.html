@@ -33,7 +33,7 @@
   <meta name="twitter:creator" value="{{ .Site.Params.twitter_auther }}" />
   <meta name="twitter:title" value="{{ .Title }}"/>
   <meta name="twitter:description" value="{{ .Site.Params.description }}"/>
-
+  <meta name="twitter:image" value="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
 
   {{ if .IsHome -}}
   <title>{{ .Site.Title }}</title>
