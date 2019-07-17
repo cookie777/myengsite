@@ -1,5 +1,5 @@
 baseURL = "https://japer-eng.netlify.com/"
-languageCode = "en-us"
+languageCode = "jp"
 title = "自分のTOEFLライティングが絶望的な件について"
 theme = "hyde"
 summaryLength = 25
