@@ -57,3 +57,29 @@ head.html系などテーマのmetaを記述している部分に以下を追加
   <meta name="description" content="{{ .Site.Params.description }}">
   <meta name="keywords" content="{{ delimit .Site.Params.Keywords ", " }}" >
 ```
+
+### ogp設定
+config.tomlに以下を追加
+```toml
+[params]
+ogp_thumb = "images/ogp_thumb.jpg" #thumb用の画像
+```
+
+head.html系などテーマのmetaを記述している部分に以下を追加
+```html
+  {{ if .IsHome -}}
+  <meta property="og:url" content="{{.Site.BaseURL}}" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Site.Params.description }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
+  {{- else -}}
+  <meta property="og:url" content="{{ .Permalink }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:description" content="{{ .Site.Params.description }}" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
+  {{- end }}
+```

@@ -17,14 +17,14 @@
   <meta name="twitter:title" value="{{ .Title }}"/>
   <meta name="twitter:description" value="{{ .Site.Params.description }}"/>
   <meta name="twitter:image" value="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
-  
+
   {{ if .IsHome -}}
-  <!-- <meta property="og:url" content="{{.Site.BaseURL}}" />
+  <meta property="og:url" content="{{.Site.BaseURL}}" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="{{ .Title }}" />
   <meta property="og:description" content="{{ .Site.Params.description }}" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
-  <meta property="og:image" content=" サムネイル画像の URL" /> -->
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
   {{- else -}}
   <meta property="og:url" content="{{ .Permalink }}" />
   <meta property="og:type" content="article" />
