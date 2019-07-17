@@ -11,7 +11,7 @@ docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo new 
 ```
 
 # Customized history
-
+ここにはTIPSより具体的にやった内容だけ記述
 ## Initalized
  * hydeを使用
  * .gitを削除（二重管理をふせぐため）
@@ -83,3 +83,12 @@ head.html系などテーマのmetaを記述している部分に以下を追加
   <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
   {{- end }}
 ```
+### ogp:twitter 設定
+* head.html系などテーマのmetaを記述している部分に以下を追加
+* 注意点： 画像のurlは絶対パスにすること
+  <meta name="twitter:card" value="summary_large_image"/>
+  <meta name="twitter:site" value="{{ .Site.Params.twitter_auther }}" />
+  <meta name="twitter:creator" value="{{ .Site.Params.twitter_auther }}" />
+  <meta name="twitter:title" value="{{ .Title }}"/>
+  <meta name="twitter:description" value="{{ .Site.Params.description }}"/>
+  <meta name="twitter:image" value="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
