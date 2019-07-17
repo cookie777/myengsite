@@ -1,5 +1,5 @@
 ---
-title: "Prectice 04"
+title: "The effect of grades on student's motivation"
 date: 2019-07-14T06:24:28Z
 draft: false
 ---
@@ -46,7 +46,7 @@ In conclusion, I contend that grades is possible to make people encourage themse
   * 途中、同表現したらいいか　わからなくてめちゃくちゃ滞った
   * そういうとき、どこまで戻るか、やり直すかの瞬時の決断がまよう
 
- * 7/17
+* 7/17
    * 29 words in 3.5 minutes = 8.2 wpm
    * どんまい…
    * つまると難しい

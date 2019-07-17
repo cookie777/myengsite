@@ -1,12 +1,11 @@
 ---
-title: "TOEFL independent writting topic "Dependece on automibiles""
+title: "Dependece on automibiles"
 date: 2019-07-17T12:10:51Z
 draft: true
 ---
 
 
 # Topic
-
 "Do you agree or disagree with the following statement? People in today's world have become too dependent on automobiles. Use specific reasons and examples to support your answer."
 
 [^quoted from]

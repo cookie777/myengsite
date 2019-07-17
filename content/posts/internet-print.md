@@ -1,5 +1,5 @@
 ---
-title: "Prectice 03"
+title: "The comparision between using Internet and prited material in terms of doing research"
 date: 2019-07-11T11:41:28Z
 draft: flase
 ---

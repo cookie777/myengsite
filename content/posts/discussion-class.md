@@ -1,5 +1,5 @@
 ---
-title: "Practice 02"
+title: "The effect of discussions on classes"
 date: 2019-07-08T13:40:45Z
 draft: false
 ---
