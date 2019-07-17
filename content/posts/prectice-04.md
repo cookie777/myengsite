@@ -17,13 +17,15 @@ draft: false
 It is said that grades have a lot of effect on students feeling for studyting. In my opinion, I think it is better to show score when they try something. I assert this idea for several reasons, which I will explain in the following paragraphs. +3
 
 ## Body1
-To begin with, it is much easier to recognize your weakness by using score. You can know what you are good at and what you are not good at. For example, when I was high school student, there were many tests. It was hard, but soon I could understand that I was not good at history , especially about modern events, and it makes me easier to know my problem. Thus, I studied history hard, and finally I became able to understand more about it . So, I think telling score is effective to improve yourself.
+To begin with, it is much easier to recognize your weakness by using score. You can know what you are good at and what you are not good at. For example, when I was high school student, there were many tests. It was hard, but soon I could understand that I was not good at history , especially about modern events, and it makes me easier to know my problem. Thus, I studied history hard, and finally I became able to understand more about it . So, I think telling score is effective to improve yourself. +11.5
 
 ## Body2
-From the view point of motivation, sometime showing grades makes people to improve themselves. For examples, when I was a student, I was good at English. One day I had a test and my result was almost 100. This made me happy. Furthermore, there were some people that also got nearly 100 score but no one got 100.  Because of this result, I thought "I wanted to get 100 score. If I had 100, I would be the only one guy in the class!" So I studied English harder than before. This experience shows that showing subjective result sometimes make people more motivated.
+From the view point of motivation, sometime showing grades makes people to improve themselves. For examples, when I was a student, I was good at English. One day I had a test and my result was almost 100. This made me happy. Furthermore, there were some people that also got nearly 100 score but no one got 100.  Because of this result, I thought "I wanted to get 100 score. If I had 100, I would be the only one guy in the class!" So I studied English harder than before. This experience shows that showing subjective result sometimes make people more motivated. +10
  +10
 ## Conclusion
+In conclusion, I contend that grades is possible to make people encourage themselve, because  it is able to understand their weakness and strengh, futhermore, it also improves their motivation. +3.5
 
+* Total: 266 words in 31 minutes
 # Review
 * 7/14
   * 45words in 3 minutes = 15 wpm 
@@ -43,6 +45,14 @@ From the view point of motivation, sometime showing grades makes people to impro
   * でもタイピング自体は早くなってきてる気がする
   * 途中、同表現したらいいか　わからなくてめちゃくちゃ滞った
   * そういうとき、どこまで戻るか、やり直すかの瞬時の決断がまよう
+
+ * 7/17
+   * 29 words in 3.5 minutes = 8.2 wpm
+   * どんまい…
+   * つまると難しい
+   * 同じ表現を回避しようとしてつまる
+   * 時間がかかる
+   * 表現にきをつける、スペルミス、タイピングの注意などマルタスクになって時間かかるねんな…
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
@@ -71,12 +81,3 @@ From the view point of motivation, sometime showing grades makes people to impro
 * In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
 * From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
 * In the first place まず、第一に
-
-
-## conclusion
-In conclusion 私は [結論]。なぜなら「〜の観点 bodyで述べた理由」だから
-
-## vacabulary
-* [影響(n)の違い](https://je.at.webry.info/201209/article_29.html)
-  * effect, influence, impact 
-* In terms of, From the viewpoint of~ 〜の観点から
