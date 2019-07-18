@@ -13,12 +13,14 @@ draft: false
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 
 # Answer
-### Handwriting-note
+## Handwriting-note
+
 * agree
 1. rural
 2. travel
 3. alter but transportaiton
 +4 minutes
+
 ## Introduction
 In these days, there are many automobiles that we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
 + 3.5 minutes
@@ -81,3 +83,18 @@ In these days, there are many automobiles that we see or use them almost every d
     * Considering the(this) fact :これらの事実を考慮すると
     * Therefore: それゆえに
     * Because of this これ／これらのことから
+
+* 嬉しい,満足＋
+  * happy
+  * pleasant
+  * pleased
+  * satisfied
+  * happiness(n)
+* 悲しい、不幸にするー
+  * unhappy
+  * sad
+  * unpleasant
+  * upset
+* aをbにする
+  * make a b
+  * turn,change?
