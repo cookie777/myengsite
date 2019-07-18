@@ -13,10 +13,15 @@ draft: true
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 
 # Answer
-### Japanese-note
-
+### Handwriting-note
+* agree
+1. rural
+2. travel
+3. alter but transportaiton
++4 minutes
 ## Introduction
-
+In these days, there are many automobiles that we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
++ 3.5 minutes
 
 ## Body1
 
@@ -26,7 +31,11 @@ draft: true
 
 
 # Review
-
+* 7/18
+  * 全体の構成に4分
+  * イントロに3.5分 44 words = 12.57 wpm
+  * なかなかよい。全体構成が慣れて短くなってきたのが大きい。素晴らしい。
+  * イントロもテンプレ化して来たので短縮できだした
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
@@ -55,3 +64,20 @@ draft: true
 * In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
 * From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
 * In the first place まず、第一に
+
+### よく使うフレーズ
+* 代わりに
+    * ~ instead.
+    * but instead, ~ .
+    * on the other hand ~.
+ 
+ * 文頭のbut, and ,so は禁止
+     * , but ~ -> However ~
+     * , and~ -> Then ~
+     * , so~ -> Therefore~
+
+ * [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
+    * For the above (reason): 以上の理由から
+    * Considering the(this) fact :これらの事実を考慮すると
+    * Therefore: それゆえに
+    * Because of this これ／これらのことから
