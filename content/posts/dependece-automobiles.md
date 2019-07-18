@@ -1,7 +1,7 @@
 ---
 title: "Dependece on automibiles"
 date: 2019-07-17T12:10:51Z
-draft: true
+draft: false
 ---
 
 
