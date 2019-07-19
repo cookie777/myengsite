@@ -22,11 +22,11 @@ draft: false
 +4 minutes
 
 ## Introduction
-In these days, there are many automobiles that we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
+In these days, there are many automobiles and we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
 + 3.5 minutes
 
 ## Body1
-
+In terms of location, we cannot live in rural without using cars. In local place, shopping and important facilities are so far from your house that it took more than an hour to reach them if you walk. For example, one of my friend who lives in rural tells me that he cannot use bike nor bicycle and whenever he goes shopping, he always use cars to carry a lots of stuffs. Thus, I think people need automobiles when they live, especially in local places.
 ## Body2
 
 ## Conclusion
@@ -38,6 +38,11 @@ In these days, there are many automobiles that we see or use them almost every d
   * イントロに3.5分 44 words = 12.57 wpm
   * なかなかよい。全体構成が慣れて短くなってきたのが大きい。素晴らしい。
   * イントロもテンプレ化して来たので短縮できだした
+* 7/19
+  * body1 85 words in 8.5 minute = 10 wpm
+  * wpmはよくないが、だんだん各方向性がわかってきた。
+  * ただたまにつっかえる。けどマシ
+  * あとはタイピングスピードを上げるだけ
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
@@ -62,9 +67,10 @@ In these days, there are many automobiles that we see or use them almost every d
 * Socially 社会的に
 * Personally, From a personal angle 個人的に
 * Economically 経済的に
-* From a professional viewpoint 専門的な観点から
+#### 視点、観点から～
 * In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
 * From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
+  * From a professional viewpoint 専門的な観点から
 * In the first place まず、第一に
 
 ### よく使うフレーズ
@@ -73,10 +79,11 @@ In these days, there are many automobiles that we see or use them almost every d
     * but instead, ~ .
     * on the other hand ~.
  
- * 文頭のbut, and ,so は禁止
-     * , but ~ -> However ~
-     * , and~ -> Then ~
-     * , so~ -> Therefore~
+ * [文頭のbut, and ,so は禁止](http://lsdkawamo.cocolog-nifty.com/blog/2013/02/post-ab98.html)
+     * , but ~ -> However ~, On the other hand~ (前者と比較), By contrast~
+     * , so~, and~ -> Therefore~, Thus~, Then~,
+     * , and~ also~(+) -> Furthermore~, Moreover~, In addition~
+
 
  * [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
     * For the above (reason): 以上の理由から
@@ -90,6 +97,7 @@ In these days, there are many automobiles that we see or use them almost every d
   * pleased
   * satisfied
   * happiness(n)
+  * pleasure(n)
 * 悲しい、不幸にするー
   * unhappy
   * sad
@@ -98,3 +106,6 @@ In these days, there are many automobiles that we see or use them almost every d
 * aをbにする
   * make a b
   * turn,change?
+
+## conclusion
+In conclusion~, Collectively~  私は"主張"。 なぜなら〜の観点から、理由で
