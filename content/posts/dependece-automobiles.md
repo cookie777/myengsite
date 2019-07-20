@@ -28,7 +28,7 @@ In these days, there are many automobiles and we see or use them almost every da
 ## Body1
 In terms of location, we cannot live in rural without using cars. In local place, shopping and important facilities are so far from your house that it took more than an hour to reach them if you walk. For example, one of my friend who lives in rural tells me that he cannot use bike nor bicycle and whenever he goes shopping, he always use cars to carry a lots of stuffs. Thus, I think people need automobiles when they live, especially in local places.
 ## Body2
-
+Secondaly, from the view point of traveling, it is much better to utilize cars when you want to go a lot of places. If you have a car, or use taxi, you can go whereever you want. For example, when I was a student, I traveled to Canada and mostly I used train to visit famous places. I know it was a good experience, but I thought I could see and enjoy more spots if I had used automobiles. From the above reason, I noticed that people must need autobiles not only to make a living but also to make their life pleasant.
 ## Conclusion
 
 
@@ -43,6 +43,13 @@ In terms of location, we cannot live in rural without using cars. In local place
   * wpmはよくないが、だんだん各方向性がわかってきた。
   * ただたまにつっかえる。けどマシ
   * あとはタイピングスピードを上げるだけ
+  * if you walk は on foot でもよさそう
+* 7/20
+  * 103 words in 9.5 minunes = 10.84 wpm
+  * あとはなれたい。いつものつかうフレーズは慣れて、できるだけ早くタイプできるようにしたい。
+  * 同じ単語つかうのは…しかたがない。とくにトピック関係。
+  * 接続詞を積極的に使って、体系的にしたい。
+  * From the above reason を使えた。素晴らしい
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
