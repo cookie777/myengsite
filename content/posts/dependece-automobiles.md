@@ -22,15 +22,20 @@ draft: false
 +4 minutes
 
 ## Introduction
-In these days, there are many automobiles and we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
+In these days, there are many automobiles, and we see or use them almost every day. They have huge impact on our life. In my opinion, I assert that people cannot live without cars, and I will explain the reason in the following essay.
 + 3.5 minutes
 
 ## Body1
 In terms of location, we cannot live in rural without using cars. In local place, shopping and important facilities are so far from your house that it took more than an hour to reach them if you walk. For example, one of my friend who lives in rural tells me that he cannot use bike nor bicycle and whenever he goes shopping, he always use cars to carry a lots of stuffs. Thus, I think people need automobiles when they live, especially in local places.
 ## Body2
-Secondaly, from the view point of traveling, it is much better to utilize cars when you want to go a lot of places. If you have a car, or use taxi, you can go whereever you want. For example, when I was a student, I traveled to Canada and mostly I used train to visit famous places. I know it was a good experience, but I thought I could see and enjoy more spots if I had used automobiles. From the above reason, I noticed that people must need autobiles not only to make a living but also to make their life pleasant.
-## Conclusion
+Secondly, from the view point of traveling, it is much better to utilize cars when you want to go a lots of places. If you have a car, or use taxi, you can go wherever you want. For example, when I was a student, I traveled to Canada and mostly I used train to visit famous places. I know it was a good experience, but I thought I could see and enjoy more spots if I had used automobiles. From the above reason, I noticed that people must need autobiles not only to make a living but also to make their life pleasant.
+## Body3 
+However, some people might think we can live without cars if you walk or use train or bicycle. This is true, but concerning of transportation, people can not use those methods when you want to carry plenty of items to shopping center or other facilities. We must need cars to live on.
 
+## Conclusion
+In conclusion, I claim that people really rely on automobiles to live on, because of the economics and in order to reach places where they want.
+
+* 311 words in 36 minutes
 
 # Review
 * 7/18
@@ -50,6 +55,12 @@ Secondaly, from the view point of traveling, it is much better to utilize cars w
   * 同じ単語つかうのは…しかたがない。とくにトピック関係。
   * 接続詞を積極的に使って、体系的にしたい。
   * From the above reason を使えた。素晴らしい
+* 7/21
+  * 79 words in 10.5 minutes = 7.5 wpm
+  * 難しい表現使おうとして時間かかった (；・∀・)
+  * 反省
+  * methods はc
+  * a lots of を lotにしがちなので注意
 
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
