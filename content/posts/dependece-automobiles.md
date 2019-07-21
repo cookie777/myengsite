@@ -69,14 +69,22 @@ In conclusion, I claim that people really rely on automobiles to live on, becaus
 ## intro
 〜が影響たくさん、あるのはしっている。私の意見では「」＋　〜の観点から. I feel this way for two reasons, which I will explore in the following essay.
 
+### 使えそうな文頭フレーズ
+* Over the last few decades, この数十年で
+
 ## body
 ### 構成
-* 文頭 ＋結論
-* ちょっとうんちく、大げさな一般例
+* 文頭フレーズ ＋結論
+*  ちょっとうんちく、大げさな一般例 For example ~ .  ~ is a example of this.
 * 自分のどうでもいいエピソード、具体例
-* また締めの結論
+* また締めの結論 This example shows ~ . From the above reason ~ .
 
-### 文頭
+### 使えそうな文頭フレーズ
+#### 視点、観点から～
+* In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
+* From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
+  * From a professional viewpoint 専門的な観点から
+* In the first place まず、第一に
 * Environmentally 環境的に
 * Culturally 文化的に
 * Scientifically 科学的に
@@ -85,11 +93,7 @@ In conclusion, I claim that people really rely on automobiles to live on, becaus
 * Socially 社会的に
 * Personally, From a personal angle 個人的に
 * Economically 経済的に
-#### 視点、観点から～
-* In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
-* From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
-  * From a professional viewpoint 専門的な観点から
-* In the first place まず、第一に
+
 
 ### よく使うフレーズ
 * 代わりに
@@ -126,4 +130,4 @@ In conclusion, I claim that people really rely on automobiles to live on, becaus
   * turn,change?
 
 ## conclusion
-In conclusion~, Collectively~  私は"主張"。 なぜなら〜の観点から、理由で
+In conclusion~, Collectively~  私は"主張"。 This is because ~ なぜなら〜の観点から、理由で
