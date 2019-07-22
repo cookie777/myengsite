@@ -1,7 +1,7 @@
 ---
 title: "Explain the country you want to visit with using specific reasons and details"
 date: 2019-07-21T09:05:12Z
-draft: true
+draft: false
 ---
 
 # The Question
@@ -13,12 +13,15 @@ draft: true
 
 # Answer
 ## Handwriting-note
-
-
+* India
+  * cheep
+  * food
+  * totally different ( hoever dangerous)
 ## Introduction
-
+There are many countries in this world and traveling overseas has great imapact on our lives. In my opinion, I would like to visit "India" especially, and I will explain the reason in the following essay.
 
 ## Body1
+Economically, it won't cost a lot if you go to India. If you spend some countries in Europe for two weeks, it will cost plenty of money, but if you visit developing country, you don't have to pay so much. For example when I was a student , I have once visited Thailand for more than two weeks, and the totoal cost was very cheap. You don't have to spend much money on transportation, and food in the county is less expenvise.  Furthermore, accommodation fee is also reasonable. This example shows that if you travel developing places, it will cost cheaper than usual.
 
 ## Body2
 
@@ -28,8 +31,14 @@ draft: true
 
 
 # Review
+* 7/22
+  * 構成メモ＋イントロ＋body1
+  * 137 word in 13 minutes = 10.53 wpm
+  * 構成時間を含めてこのスピードはかなりよい。 やった(*´ω｀*)
+    * 構成にかける時間がだいぶ少なくなってきた。おそらく2分位。しかも英語で.
+    * なれとテンプレのおかげ
 
-
+---
 # 以下はテンプレ、テクニックなど
 ## 構成作成時
 論理的、つながり、接続詞や書きやすいように
@@ -61,7 +70,7 @@ draft: true
 * Socially 社会的に
 * Personally, From a personal angle 個人的に
 * Economically 経済的に
-
+    * 金銭的には Financially の方がよい？
 
 ### よく使うフレーズ
 * 代わりに
@@ -96,6 +105,25 @@ draft: true
 * aをbにする
   * make a b
   * turn,change?
+
+* 沢山
+  * a lot of 
+  * lots of
+  * ~~ a los of ~~ はないので注意
+  * a number of
+  * plenty of
+  * many (c)
+  * much (uc)
+
+### 微妙に間違いそうなやつ 複数形とか
+  * 人々の生活 = our lives
+  * transportation (uc)
+  * food は基本 cだけど、特定の数種類だとfoodsにもなれる。基本はfood でおｋ
+  * 宿泊費
+    * accommadation fee
+    * rent
+    * hotel expenses
+  * as if (過去形)～ まるで～かのように
 
 ## conclusion
 In conclusion~, Collectively~  私は"主張"。 This is because ~ なぜなら〜の観点から、理由で
