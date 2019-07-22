@@ -6,9 +6,9 @@ draft: false
 
 
 # Topic
-"Do you agree or disagree with the following statement? People in today's world have become too dependent on automobiles. Use specific reasons and examples to support your answer."
+"Do you agree or disagree with the following statement? People in today's world have become too dependent on automobiles. Use specific reasons and examples to support your answer." [^quoted from]
 
-[^quoted from]
+
 
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 

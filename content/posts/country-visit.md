@@ -5,9 +5,7 @@ draft: false
 ---
 
 # The Question
-"You have the opportunity to visit a foreign country for two weeks. Which country would you like to visit? Use specific reasons and details to explain your choice (from the Official TOEFL Guide)."
-
-[^quoted from]
+"You have the opportunity to visit a foreign country for two weeks. Which country would you like to visit? Use specific reasons and details to explain your choice (from the Official TOEFL Guide)." [^quoted from]
 
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-vii
 
@@ -17,6 +15,7 @@ draft: false
   * cheep
   * food
   * totally different ( hoever dangerous)
+
 ## Introduction
 There are many countries in this world and traveling overseas has great imapact on our lives. In my opinion, I would like to visit "India" especially, and I will explain the reason in the following essay.
 

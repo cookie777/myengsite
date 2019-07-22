@@ -5,8 +5,9 @@ draft: false
 ---
 # Topic
 Do you agree or disagree with the following statement?
+“Overall, the widespread use of the internet has a mostly positive effect on life in today's world." Use reasons and details to support your opinion.[^quoted from]
 
-“Overall, the widespread use of the internet has a mostly positive effect on life in today's world." Use reasons and details to support your opinion.
+[^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 
 # Answer
 ## Intruduction
