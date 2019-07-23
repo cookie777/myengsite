@@ -5,8 +5,7 @@ draft: false
 ---
 
 # Topic
-"Do you agree or disagree with the following statement? Grades encourage students to learn. Use specific reasons and examples to support your opinion."
-[^quoted from]
+"Do you agree or disagree with the following statement? Grades encourage students to learn. Use specific reasons and examples to support your opinion."[^quoted from]
 
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 

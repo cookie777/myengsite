@@ -5,8 +5,7 @@ draft: flase
 ---
 
 # Topic
-Do you agree or disagree with the following statement? It is better to use printed material such as books and articles to do research than it is to use the Internet. Use specific reasons and examples to support your answer.
-[^quoted from]
+Do you agree or disagree with the following statement? It is better to use printed material such as books and articles to do research than it is to use the Internet. Use specific reasons and examples to support your answer.[^quoted from]
 
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays
 

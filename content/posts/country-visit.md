@@ -23,8 +23,8 @@ There are many countries in this world and traveling overseas has great imapact 
 Economically, it won't cost a lot if you go to India. If you spend some countries in Europe for two weeks, it will cost plenty of money, but if you visit developing country, you don't have to pay so much. For example when I was a student , I have once visited Thailand for more than two weeks, and the totoal cost was very cheap. You don't have to spend much money on transportation, and food in the county is less expenvise.  Furthermore, accommodation fee is also reasonable. This example shows that if you travel developing places, it will cost cheaper than usual.
 
 ## Body2
-
-## Body3 
+From the view point of food, there are many attractive meal in India. There are a lot of spices that they usuallu use for dishes, curry is a example of this. I often go to restaurant which is run by Indian, and the foods in the facility is very delicious for me. I am obsessed with Indian spices and I have some of them and always use them for cooking. From the above reason, I really want to visit India and experience the real ethnic culture by eating regional food.
+## Body3
 
 ## Conclusion
 
@@ -36,6 +36,13 @@ Economically, it won't cost a lot if you go to India. If you spend some countrie
   * 構成時間を含めてこのスピードはかなりよい。 やった(*´ω｀*)
     * 構成にかける時間がだいぶ少なくなってきた。おそらく2分位。しかも英語で.
     * なれとテンプレのおかげ
+* 7/23
+  * body2
+  * 86 words in 6.5 minutes = 13..2 wpm
+  * やった！ なんでかしらんけど早い
+  * その分、文の質は低いけど (；・∀・)
+  * 今回は質＜速さを優先して書いたからかな？
+  * 相変わらず、文を考えるとのタイピングでマルチタスクになる… 慣れあるのみ
 
 ---
 # 以下はテンプレ、テクニックなど
