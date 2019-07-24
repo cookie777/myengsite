@@ -17,16 +17,22 @@ draft: false
   * totally different ( hoever dangerous)
 
 ## Introduction
-There are many countries in this world and traveling overseas has great imapact on our lives. In my opinion, I would like to visit "India" especially, and I will explain the reason in the following essay.
+There are many countries in this world and traveling overseas has great impact on our lives. In my opinion, I would like to visit "India" especially, and I will explain the reason in the following essay.
 
 ## Body1
-Economically, it won't cost a lot if you go to India. If you spend some countries in Europe for two weeks, it will cost plenty of money, but if you visit developing country, you don't have to pay so much. For example when I was a student , I have once visited Thailand for more than two weeks, and the totoal cost was very cheap. You don't have to spend much money on transportation, and food in the county is less expenvise.  Furthermore, accommodation fee is also reasonable. This example shows that if you travel developing places, it will cost cheaper than usual.
+Economically, it won't cost a lot if you go to India. If you spend some countries in Europe for two weeks, it will cost plenty of money, but if you visit developing country, you don't have to pay so much. For example when I was a student , I have once visited Thailand for more than two weeks, and the total cost was very cheap. You don't have to spend much money on transportation, and food in the county is less expensive.  Furthermore, accommodation fee is also reasonable. This example shows that if you travel developing places, it will cost cheaper than usual.
 
 ## Body2
-From the view point of food, there are many attractive meal in India. There are a lot of spices that they usuallu use for dishes, curry is a example of this. I often go to restaurant which is run by Indian, and the foods in the facility is very delicious for me. I am obsessed with Indian spices and I have some of them and always use them for cooking. From the above reason, I really want to visit India and experience the real ethnic culture by eating regional food.
+From the view point of food, there are many attractive meal in India. There are a lot of spices that they usually use for dishes, curry is a example of this. I often go to restaurant which is run by Indian, and the foods in the facility is very delicious for me. I am obsessed with Indian spices and I have some of them and always use them for cooking. From the above reason, I really want to visit India and experience the real ethnic culture by eating regional food.
+
 ## Body3
+Culturally, Indian surrounding is totally different from that of Japan. The religion, languages, food, transportation, music and so on. Everything is so different from Japan that staying at that kind of place must be a great experience for me. One of my friend who also went to India often told me that was a great journey. Therefore, I wish to go there. However, it is said that India is a quite dangerous place and many crimes always occur. I know this fact and I also don't think it's a lie, so I will prepare well enough and those kinds of situation are also going to be my great experience.
+
 
 ## Conclusion
+In conclusion, I claim that India is one of the best place that I want to go, and this is because of the financial and cultural reasons.
+
+* 359 words in 31.5 minutes = 11.39 wpm 
 
 
 # Review
@@ -43,6 +49,12 @@ From the view point of food, there are many attractive meal in India. There are 
   * その分、文の質は低いけど (；・∀・)
   * 今回は質＜速さを優先して書いたからかな？
   * 相変わらず、文を考えるとのタイピングでマルチタスクになる… 慣れあるのみ
+
+* 7/24
+  * body3 and conclusion
+  * 136 words in 12 minutes = 11.33 wpm
+  * やるやん！ good job !
+  * 内容はクソで繰り返し同じ単語も使っているが、形になってきた！ やった！
 
 ---
 # 以下はテンプレ、テクニックなど
