@@ -12,13 +12,16 @@ draft: false
 
 # Answer
 ## Handwriting-note
+
 * with companion
   * in truble
   * motivation
   * hoever some problem but 
   + 1 minutes
+
 ## Introduction
 There are some opportunities in our lives to go abroad and those experiences have great impact on us. In my opinion, I claim that it is better to go with somebody rather than alone. I will explain the reason in the following essay. 
+
 ## Body1
 
 ## Body2
@@ -49,6 +52,7 @@ There are some opportunities in our lives to go abroad and those experiences hav
 
 ## body
 ### 構成
+
 * 文頭フレーズ ＋結論
 *  ちょっとうんちく、大げさな一般例 For example ~ .  ~ is a example of this.
 * 自分のどうでもいいエピソード、具体例
@@ -56,6 +60,7 @@ There are some opportunities in our lives to go abroad and those experiences hav
 
 ### 使えそうな文頭フレーズ
 #### 視点、観点から～
+
 * In terms of [noun] , From the viewpoint of [noun]  〜の観点からz<!--  -->
 * From [adj] viewpoint～, From [adj] point of view~, 〜の観点から
   * From a professional viewpoint 専門的な観点から
@@ -75,14 +80,14 @@ There are some opportunities in our lives to go abroad and those experiences hav
     * ~ instead.
     * but instead, ~ .
     * on the other hand ~.
- 
- * [文頭のbut, and ,so は禁止](http://lsdkawamo.cocolog-nifty.com/blog/2013/02/post-ab98.html)
+
+* [文頭のbut, and ,so は禁止](http://lsdkawamo.cocolog-nifty.com/blog/2013/02/post-ab98.html)
      * , but ~ -> However ~, On the other hand~ (前者と比較), By contrast~
      * , so~, and~ -> Therefore~, Thus~, Then~,
      * , and~ also~(+) -> Furthermore~, Moreover~, In addition~
 
 
- * [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
+* [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
     * For the above (reason): 以上の理由から
     * Considering the(this) fact :これらの事実を考慮すると
     * Therefore: それゆえに
