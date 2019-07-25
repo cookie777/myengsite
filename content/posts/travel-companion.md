@@ -14,9 +14,9 @@ draft: false
 ## Handwriting-note
 
 * with companion
-  * in truble
+  * in trouble
   * motivation
-  * hoever some problem but 
+  * however some problem but 
   + 1 minutes
 
 ## Introduction
@@ -34,7 +34,7 @@ There are some opportunities in our lives to go abroad and those experiences hav
 
 # Review
 * 7/25
-  * made outline (1 minutes ) and wrote intruduction 
+  * made outline (1 minutes ) and wrote introduction
   * 43 words in 3.5 minutes = 12.3 wpm
   * 10 wpm 超えたので素晴らしい！ そしてまだ滞りがあったのでもっといけるはずｂ (*´ω｀*)
   * そして驚異の構成 1分 素晴らしい 慣れてきた
@@ -131,7 +131,7 @@ There are some opportunities in our lives to go abroad and those experiences hav
   * transportation (uc)
   * food は基本 cだけど、特定の数種類だとfoodsにもなれる。基本はfood でおｋ
   * 宿泊費
-    * accommadation fee
+    * accommodation fee
     * rent
     * hotel expenses
   * as if (過去形)～ まるで～かのように
