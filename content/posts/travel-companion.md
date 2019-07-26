@@ -16,13 +16,14 @@ draft: false
 * with companion
   * in trouble
   * motivation
-  * however some problem but 
+  * however some problem but still worth going
   + 1 minutes
 
 ## Introduction
 There are some opportunities in our lives to go abroad and those experiences have great impact on us. In my opinion, I claim that it is better to go with somebody rather than alone. I will explain the reason in the following essay. 
 
 ## Body1
+From the viewpoint of security, it is much better to go with someone. There will be a lot of problems and dangers during traveling. If you are with somebody, we can take care of each other. Furthermore, when we are in trouble, we can share our solutions. For example, when I visited India with one of my best friend, I was stolen a couple of money and became panic, but he game me some advice and finally we could get over it. From the above reason, I think going somewhere with partner can be safer.
 
 ## Body2
 
@@ -38,6 +39,13 @@ There are some opportunities in our lives to go abroad and those experiences hav
   * 43 words in 3.5 minutes = 12.3 wpm
   * 10 wpm 超えたので素晴らしい！ そしてまだ滞りがあったのでもっといけるはずｂ (*´ω｀*)
   * そして驚異の構成 1分 素晴らしい 慣れてきた
+
+* 7/26
+  * wrote body1 
+  * 93 words in 7 minutes = 13.28 wpm
+  * めっちゃ早い！　しかも内容も結構いい気がうする！　やったぁ！
+  * おそらくこの前にヨガをして集中力が上がったから
+  * condition ってすごい大事や
 
 ---
 # 以下はテンプレ、テクニックなど
@@ -154,6 +162,9 @@ There are some opportunities in our lives to go abroad and those experiences hav
   * 機会
     * opportunity はc opportunities
     * chance もc chances
+  * 助言
+    * advice (n,uc) 複数形はない
+    * advise の三人称で　advises がある
 
 ## conclusion
 In conclusion~, Collectively~  私は"主張"。 This is because ~ なぜなら〜の観点から、理由で
