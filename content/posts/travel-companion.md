@@ -126,6 +126,22 @@ There are some opportunities in our lives to go abroad and those experiences hav
     * go on a trip 
     * go on a vacation
 
+* can と be able to のdifferences
+  * 結論：現在はcan だけど、それ以外は万能 be able to。  couldは できたのにな～とか丁寧語とか意外とsubな感じ
+  * 未来： (will) be able to
+  * 現在： can
+  * 過去：
+    * 一時的にできた (was) able to
+    * わりと長期間できた could
+    * 五感に関係する能力でできた could see
+  * if 仮定 できたのにな～ could
+
+* get to 
+  * これも ～できる、(権利、機会、物)〜を手に入れる という意味(informal)
+    * I got to passed the test. テスト受かった～
+  * have got to は ～しないと行けない
+  * I've got to pass the test. テストに受からないといけないんじゃ～
+
 ### 微妙に間違いそうなやつ 複数形とか
   * 人々の生活 = our lives
   * transportation (uc)
