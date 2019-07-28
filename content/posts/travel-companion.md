@@ -29,10 +29,12 @@ From the viewpoint of security, it is much better to go with someone. There will
 In terms of motivation, it become harder to travel overseas if you are alone. This is because you have to prepare a lot and you also need to think about reservation and insurance. They are boring and difficult to consider. However, by sharing some tasks with your partner, it will become more pleasant and not so hard. When I visited to foreign country with my friend, even preparation was fun and good experiences. Thus, I think traveling alone could be boring or tired.
 
 ## Body3
-
+On the other hand, there are some problems with my assertion. You have to consider both schedules. In addition, when you want to go someplace and your partner wants to go to a different locatio, it will also occur trouble. However, it is still worth going with someone, because you can create more pleasant and happiness than those troubles. For example, I used to argue with my partner about where to go during the trip, but it was still a great experience.
 
 ## Conclusion
+In conclusion, I affirm that if you want to visit abroad, it is recommended to go with someone you know. This is because of security and motivation reasons.
 
+* 330 words in 29.5 minutes = 11.186 wpm
 
 # Review
 * 7/25
@@ -52,6 +54,14 @@ In terms of motivation, it become harder to travel overseas if you are alone. Th
   * 83 words in 8 minutes = 10.37 wpm
   * 結構つまずいたけど、10 wpm 行けるようになってきた。 おｋ
   * つまずきは内容、よりはタイピングミス、下手にミスして消すよりはゆっくりミスなしでやったほうがいいかも
+
+* 7/28
+  * 111 words in 11 minutes = 10 wpm
+  * いろいろ用語や表現を挑戦してみた＋推敲　の結果なので結構いいかも
+  * あとはこのまま短縮していければよさげ
+  * ３つ目のparagraphでhoweverと反論した場合、反論主張→それでもメイン主張→体験談→結論　としていいのか迷う
+  * 結構長くなるしね
+  * ただ３つめは反論主張をいれたい
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -80,11 +90,18 @@ In terms of motivation, it become harder to travel overseas if you are alone. Th
 
 ## 2. Body
 ### Outline
+* 1st,2nd
+  * 文頭フレーズ(~的に) ＋そのparagraphでの主張
+  * 一般例、うんちく、大げさな一般
+  * 自分のどうでもいいエピソード、具体例：水増しパート(☆ω☆)
+  * またしめの簡単な結論
 
-* 文頭フレーズ(~的に) ＋そのparagraphでの主張
-* 一般例、うんちく、大げさな一般
-* 自分のどうでもいいエピソード、具体例：水増しパート(☆ω☆)
-* またしめの簡単な結論
+* 3rd
+  * 文頭反論主張
+  * それに対するまた反論（＝メインの主張をサポートするもの）
+  * 具体例
+  * 結論・・・？
+
 
 ### 使えそうなフレーズ
 
@@ -120,7 +137,7 @@ In terms of motivation, it become harder to travel overseas if you are alone. Th
 * For instance ~ [experiences].
 * [experiences]  ~ is a example of this.
 
-#### またしめの簡単な結論
+#### また,しめの簡単な結論
 * This example shows [easy conclusion].
 * [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
     * For the above (reason):  以上の理由から
@@ -196,7 +213,13 @@ In terms of motivation, it become harder to travel overseas if you are alone. Th
   * I've got to pass the test. テストに受からないといけないんじゃ～
 
 * as if (過去形)～ まるで～かのように
+* problem with~ ~~in~~
 
+* 行く
+  * go to [location]: toがいる
+    * come to [location]: 相手も目的地にいる場合、向かう
+  * visit [location]: toいらない
+ 
 ### vocabulary
 
 * 嬉しい,満足＋
@@ -239,6 +262,10 @@ In terms of motivation, it become harder to travel overseas if you are alone. Th
   * accommodation fee
   * rent
   * hotel expenses
+
+* 主張（noun）
+  * assertion
+  * thesis
 
 #### countable and uncountable
   * 人々の生活 = our lives
