@@ -1,7 +1,7 @@
 ---
 title: "Art Environment"
 date: 2019-07-29T11:54:01Z
-draft: true
+draft: false
 ---
 
 # The Question
