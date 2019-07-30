@@ -13,15 +13,15 @@ draft: false
 ## Handwriting-note
 * environment
   * vital to human
-  * improve motination
-  * however art too(motive) -> but env can also improve art  (oppisite no) so efficient
+  * improve motivation
+  * however art too(motive) -> but env can also improve art  (opposite no) so efficient
 
 
 ## Introduction
 This topic is very difficult to decide and there is no correct answer, but I still affirm that the government should spend much money on the environment than art. I feel this for 3 reasons, which I will explain in the following essay.
 
 ## Body1
-
+In terms of lifeline, the environment is vital for humans. If the environment becomes worst, the quality of our lives becomes much worse, or we could no longer live. In these days, lots of forests have been destroyed and plenty of species have been disappeared. For example, Japan is becoming hotter every year, and one of the reasons is the development of the city and the decreasing of forests. Trees and plants have a great effect on temperature. For the above reason, I assert that the environmental problem is essential to us.
 
 ## Body2
 
@@ -38,6 +38,12 @@ This topic is very difficult to decide and there is no correct answer, but I sti
   * そして問題文の意味があまりわからずググる(；・∀・)
   * なので実際はもっとかかってる。なので正確なwpmがわからず計算せず
   * 構成も考えるのも難しく２〜３分くらいかかったかも
+* 7/30
+  * 88 words in 13 minutes = 6.76 wpm
+  * 過去最悪の遅さー(´；ω；｀)
+  * 内容、もっといえば水増しパートの具体例で詰まった
+  * 今まで具体例パートは自身の体験談を適当に書けばよかったが今回は一般的なことを書くことになりつまった
+  * 一般的なことを長く書くのは辛いと痛感。書きやすい内容に持っていくことが重要。
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -242,6 +248,7 @@ This topic is very difficult to decide and there is no correct answer, but I sti
 * 主張（noun）
   * assertion
   * thesis
+  * opinion
 
 #### countable and uncountable
   * 人々の生活 = our lives
@@ -253,5 +260,9 @@ This topic is very difficult to decide and there is no correct answer, but I sti
   * 助言
     * advice (n,uc) 複数形はない
     * advise の三人称で　advises がある
+  * humans c
+
+### 疑問点
+* one of the reasons is ~ で理由を２つ上げる場合、同表現したらいい？
 
 
