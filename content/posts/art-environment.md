@@ -24,6 +24,7 @@ This topic is very difficult to decide and there is no correct answer, but I sti
 In terms of lifeline, the environment is vital for humans. If the environment becomes worst, the quality of our lives becomes much worse, or we could no longer live. In these days, lots of forests have been destroyed and plenty of species have been disappeared. For example, Japan is becoming hotter every year, and one of the reasons is the development of the city and the decreasing of forests. Trees and plants have a great effect on temperature. For the above reason, I assert that the environmental problem is essential to us.
 
 ## Body2
+From the viewpoint of motivation, the environment makes people feel better. A lot of paper refer that trees and plants have a pile of good effects on one's attitude. They make people relax, happy and relieve. When I was a student, I have to study a lot, but could not focus on it at all. Then I bought a small plant and put it on my desk. It was a very small attempt, but I was able to study harder than before. This experience shows that improving the environment has a great impact on human motivations.
 
 ## Body3
 
@@ -44,6 +45,15 @@ In terms of lifeline, the environment is vital for humans. If the environment be
   * 内容、もっといえば水増しパートの具体例で詰まった
   * 今まで具体例パートは自身の体験談を適当に書けばよかったが今回は一般的なことを書くことになりつまった
   * 一般的なことを長く書くのは辛いと痛感。書きやすい内容に持っていくことが重要。
+* 7/31
+  * 95 word in 9 minutes = 10.55 wpm
+  * まずます
+  * was able to はcould でもよかったかも
+  * bodyのしめのフレーズのテンプレが固まりだしたので、いろいろ使える様になりたい
+    * this experience(example) shows
+    * considering this fact 
+    * for the above reason 
+    * therefore
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -250,6 +260,11 @@ In terms of lifeline, the environment is vital for humans. If the environment be
   * thesis
   * opinion
 
+* モチベ、やる気を上げる
+  * motivate (verb)  It motivates people feelings
+  * motivation (noun)  It gives me motivation
+  * motivated (adj) I want to be(get) more motivated
+  
 #### countable and uncountable
   * 人々の生活 = our lives
   * transportation (uc)
@@ -261,6 +276,9 @@ In terms of lifeline, the environment is vital for humans. If the environment be
     * advice (n,uc) 複数形はない
     * advise の三人称で　advises がある
   * humans c
+  * human's はだめらしい humanでおｋ
+  * effects c
+  * focus on it.
 
 ### 疑問点
 * one of the reasons is ~ で理由を２つ上げる場合、同表現したらいい？
