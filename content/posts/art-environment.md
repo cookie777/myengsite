@@ -19,16 +19,22 @@ draft: false
 
 ## Introduction
 This topic is very difficult to decide and there is no correct answer, but I still affirm that the government should spend much money on the environment than art. I feel this for 3 reasons, which I will explain in the following essay.
+* 7/29
 
 ## Body1
 In terms of lifeline, the environment is vital for humans. If the environment becomes worst, the quality of our lives becomes much worse, or we could no longer live. In these days, lots of forests have been destroyed and plenty of species have been disappeared. For example, Japan is becoming hotter every year, and one of the reasons is the development of the city and the decreasing of forests. Trees and plants have a great effect on temperature. For the above reason, I assert that the environmental problem is essential to us.
+* 7/30
 
 ## Body2
 From the viewpoint of motivation, the environment makes people feel better. A lot of paper refer that trees and plants have a pile of good effects on one's attitude. They make people relax, happy and relieve. When I was a student, I have to study a lot, but could not focus on it at all. Then I bought a small plant and put it on my desk. It was a very small attempt, but I was able to study harder than before. This experience shows that improving the environment has a great impact on human motivations.
+* 7/31
+
 
 ## Body3
-
-
+However, some people might think artistic element can also motivate people. I agree this opinion. On the other hand,
+solving the environment problems can also improve the artistic problems. In other words, you can save both nature and art by improving the environment. Considering this fact, investing to environment problem is more efficient. 
+* 8/1
+* 
 ## Conclusion
 
 # Review
@@ -40,12 +46,14 @@ From the viewpoint of motivation, the environment makes people feel better. A lo
   * なので実際はもっとかかってる。なので正確なwpmがわからず計算せず
   * 構成も考えるのも難しく２〜３分くらいかかったかも
 * 7/30
+  * body1
   * 88 words in 13 minutes = 6.76 wpm
   * 過去最悪の遅さー(´；ω；｀)
   * 内容、もっといえば水増しパートの具体例で詰まった
   * 今まで具体例パートは自身の体験談を適当に書けばよかったが今回は一般的なことを書くことになりつまった
   * 一般的なことを長く書くのは辛いと痛感。書きやすい内容に持っていくことが重要。
 * 7/31
+  * body2
   * 95 word in 9 minutes = 10.55 wpm
   * まずます
   * was able to はcould でもよかったかも
@@ -54,6 +62,13 @@ From the viewpoint of motivation, the environment makes people feel better. A lo
     * considering this fact 
     * for the above reason 
     * therefore
+* 8/1
+  * body3
+  * 53 words in 11 minutes = 4.9 words
+  * 過去最悪更新！(´；ω；｀)
+  * 原因ははっきりしている。わりと日本語で論ずるレベルのちゃんとした論理を書こうとしたこと
+  * やっぱり下手に説得力をもたせようと挑戦すると表現でつまりかなり遅くなる
+  * 詰まるくらいなら量を。痛感した
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -212,6 +227,12 @@ From the viewpoint of motivation, the environment makes people feel better. A lo
     * come to [location]: 相手も目的地にいる場合、向かう
   * visit [location]: toいらない
  
+* agree **wtih**
+   * withを付け忘れないこと
+
+*invest in
+  * 投資する In
+
 ### vocabulary
 
 * 嬉しい,満足＋
