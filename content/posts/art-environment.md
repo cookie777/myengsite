@@ -7,7 +7,7 @@ draft: false
 # The Question
 "Some people think that the government should use extra money to fund programs to improve the environment.  Others think that it is better for the government to spend money to support artistic programs.  Which option do you prefer? Use specific reasons and examples to support your answer." [^quoted from]
 
-[^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-viii
+[^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-ix
 
 # Answer
 ## Handwriting-note
@@ -34,8 +34,11 @@ From the viewpoint of motivation, the environment makes people feel better. A lo
 However, some people might think artistic element can also motivate people. I agree this opinion. On the other hand,
 solving the environment problems can also improve the artistic problems. In other words, you can save both nature and art by improving the environment. Considering this fact, investing to environment problem is more efficient. 
 * 8/1
-* 
+
 ## Conclusion
+In conclusion, I affirm that the government should spend much money on the environment problems. This is because artistic programs can motivate people's attitude but they are not essential to humans lives, while environmental programs are vital for human beings and they are also able to give people motivation.
+* 8/2
+* 327 words in 43 minutes = 7.6 wpm
 
 # Review
 * 7/29
@@ -64,11 +67,21 @@ solving the environment problems can also improve the artistic problems. In othe
     * therefore
 * 8/1
   * body3
-  * 53 words in 11 minutes = 4.9 words
+  * 53 words in 11 minutes = 4.9 wpm
   * 過去最悪更新！(´；ω；｀)
   * 原因ははっきりしている。わりと日本語で論ずるレベルのちゃんとした論理を書こうとしたこと
   * やっぱり下手に説得力をもたせようと挑戦すると表現でつまりかなり遅くなる
   * 詰まるくらいなら量を。痛感した
+
+* 8/2
+  * conclusion
+  * 49 words in 5 minutes = 9.8 wpm
+  * 結論のテンプレなのでもう少し早く書きたい
+  * けど今回は少しconclusionを見直して、量を増やすパターンにしたので仕方がない、というかごく当たり前の結果
+  * 少しずつ慣れて改善していきたい
+  * 総評：327 words in 43 minutes = 7.6 wpm (;_;)
+  * 今回は速さ＜＜テンプレ、使う語句の見直しをしたから大丈夫！ 毎日良くやれてる！
+  * 目指せ 11.6 wmp (350 words in 30 minutes) ~  13.3 wmp  (400 words in 30 minutes) ！
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -143,32 +156,37 @@ solving the environment problems can also improve the artistic problems. In othe
 * For example ~ [experiences].
 * For instance ~ [experiences].
 * [experiences]  ~ is a example of this.
+* I recently read a report in a major newspaper which pointed out that ~
 
-#### また,しめの簡単な結論
-* This example shows [easy conclusion].
-* [以上の理由から](https://eikaiwa.dmm.com/uknow/questions/28910/)
-    * For the above (reason):  以上の理由から
-    * Considering the(this) fact :  これらの事実を考慮すると
-    * Therefore: それゆえに
-    * Because of this これ／これらのことから
+#### [また,しめの簡単な結論](https://eikaiwa.dmm.com/uknow/questions/28910/)
+* This example shows that ~.
+* These examples demonstrate that ~
+* This means that ~
+* For the above (reason):  以上の理由から
+* Considering the(this) fact :  これらの事実を考慮すると
+* Therefore: それゆえに
+* Because of this これ／これらのことから
+
 
 ## 3. Conclusion
 * 結論：私は～「主張」
-* なぜなら 「～bodyで述べた視点」 だから
+* なぜなら 「～bodyで述べた理由」 だから
 ### 使えそうなフレーズ
 * 結論：私は～「主張」
   * In conclusion, ~
   * Collectivity, ~
   * I assert, affirm, argue, claim, ~
-* なぜなら 「～bodyで述べた視点」 だから
+* なぜなら 「～bodyで述べた理由」 だから
   * 文頭
+    *  「~の視点から」よりは「～だから」とSVの文章にしたほうが少し長くできる
     * This is because ~
     * The reason is ~
-  * 途中から
+    * I feel this way because ~
+  <!-- * 途中から
     * ~  , because ~  (Because~ のように文頭にはNG！)
     * ~ because of (noun)
     * ~ due to (noun)
-    * ~ for (noun).
+    * ~ for (noun). -->
 
 
 
