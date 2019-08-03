@@ -1,7 +1,7 @@
 ---
 title: "Chose the best way you think to solve difficult problems"
 date: 2019-08-03T11:42:25Z
-draft: true
+draft: false
 ---
 
 # The Question
@@ -13,9 +13,16 @@ draft: true
 [^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-x
 
 # Answer
+
 ## Handwriting-note
+* using internet
+  * lots sample
+  * efficient fast, easy to imagine image + video
+  * however ask experience ; close; similar; reality; but 1 sample + bias . thinking x do it
 
 ## Introduction
+Human has been facing a lot of difficult problems for a long time. It is not possible to avoid some of them. In order to solve those issues, I assert that using the Internet is one of the best way. I feel this way for several reasons and I will explain them in the following essay.
+
 
 ## Body1
 
@@ -29,6 +36,12 @@ draft: true
 
 
 # Review
+* 8/3
+  * creating outline: 3 minutes
+  * writing introduction: 56 words in 3 minutes = 18.66 wmp
+  * 過去最高のwmp ! やったぁあああ！ やっぱりテンプレと慣れが凄いｂ
+  * 問題読む＋構成は時間多め。 重要なので問題ない
+  
 ---
 
 # 以下はテンプレ、テクニックなど
