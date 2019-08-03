@@ -1,91 +1,38 @@
 ---
-title: "Which programs should the government support stronger, Artistic or Environmental issues ?"
-date: 2019-07-29T11:54:01Z
-draft: false
+title: "Chose the best way you think to solve difficult problems"
+date: 2019-08-03T11:42:25Z
+draft: true
 ---
 
 # The Question
-"Some people think that the government should use extra money to fund programs to improve the environment.  Others think that it is better for the government to spend money to support artistic programs.  Which option do you prefer? Use specific reasons and examples to support your answer." [^quoted from]
+"When you face difficult problems in life, what do you feel is the best way to solve them?" [^quoted from]
+* asking someone with more experience for advice about the problem
+* finding information about the problem using the Internet
+* taking a long time to think about the problem
 
-[^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-ix
+[^quoted from]: https://www.toeflresources.com/sample-toefl-essays/sample-toefl-essays-x
 
 # Answer
 ## Handwriting-note
-* environment
-  * vital to human
-  * improve motivation
-  * however art too(motive) -> but env can also improve art  (opposite no) so efficient
-
 
 ## Introduction
-This topic is very difficult to decide and there is no correct answer, but I still affirm that the government should spend much money on the environment than art. I feel this for 3 reasons, which I will explain in the following essay.
-* 7/29
 
 ## Body1
-In terms of lifeline, the environment is vital for humans. If the environment becomes worst, the quality of our lives becomes much worse, or we could no longer live. In these days, lots of forests have been destroyed and plenty of species have been disappeared. For example, Japan is becoming hotter every year, and one of the reasons is the development of the city and the decreasing of forests. Trees and plants have a great effect on temperature. For the above reason, I assert that the environmental problem is essential to us.
-* 7/30
 
 ## Body2
-From the viewpoint of motivation, the environment makes people feel better. A lot of paper refer that trees and plants have a pile of good effects on one's attitude. They make people relax, happy and relieve. When I was a student, I have to study a lot, but could not focus on it at all. Then I bought a small plant and put it on my desk. It was a very small attempt, but I was able to study harder than before. This experience shows that improving the environment has a great impact on human motivations.
-* 7/31
 
 
 ## Body3
-However, some people might think artistic element can also motivate people. I agree this opinion. On the other hand,
-solving the environment problems can also improve the artistic problems. In other words, you can save both nature and art by improving the environment. Considering this fact, investing to environment problem is more efficient. 
-* 8/1
+
 
 ## Conclusion
-In conclusion, I affirm that the government should spend much money on the environment problems. This is because artistic programs can motivate people's attitude but they are not essential to humans lives, while environmental programs are vital for human beings and they are also able to give people motivation.
-* 8/2
-* 327 words in 43 minutes = 7.6 wpm
+
 
 # Review
-* 7/29
-  * 問題読む＋構成考える＋introduction
-  * 5 minutes
-  * 今回から問題読む時間追加していなかったので追加（わすれてた）
-  * そして問題文の意味があまりわからずググる(；・∀・)
-  * なので実際はもっとかかってる。なので正確なwpmがわからず計算せず
-  * 構成も考えるのも難しく２〜３分くらいかかったかも
-* 7/30
-  * body1
-  * 88 words in 13 minutes = 6.76 wpm
-  * 過去最悪の遅さー(´；ω；｀)
-  * 内容、もっといえば水増しパートの具体例で詰まった
-  * 今まで具体例パートは自身の体験談を適当に書けばよかったが今回は一般的なことを書くことになりつまった
-  * 一般的なことを長く書くのは辛いと痛感。書きやすい内容に持っていくことが重要。
-* 7/31
-  * body2
-  * 95 word in 9 minutes = 10.55 wpm
-  * まずます
-  * was able to はcould でもよかったかも
-  * bodyのしめのフレーズのテンプレが固まりだしたので、いろいろ使える様になりたい
-    * this experience(example) shows
-    * considering this fact 
-    * for the above reason 
-    * therefore
-* 8/1
-  * body3
-  * 53 words in 11 minutes = 4.9 wpm
-  * 過去最悪更新！(´；ω；｀)
-  * 原因ははっきりしている。わりと日本語で論ずるレベルのちゃんとした論理を書こうとしたこと
-  * やっぱり下手に説得力をもたせようと挑戦すると表現でつまりかなり遅くなる
-  * 詰まるくらいなら量を。痛感した
-
-* 8/2
-  * conclusion
-  * 49 words in 5 minutes = 9.8 wpm
-  * 結論のテンプレなのでもう少し早く書きたい
-  * けど今回は少しconclusionを見直して、量を増やすパターンにしたので仕方がない、というかごく当たり前の結果
-  * 少しずつ慣れて改善していきたい
-  * 総評：327 words in 43 minutes = 7.6 wpm (;_;)
-  * 今回は速さ＜＜テンプレ、使う語句の見直しをしたから大丈夫！ 毎日良くやれてる！
-  * 目指せ 11.6 wmp (350 words in 30 minutes) ~  13.3 wmp  (400 words in 30 minutes) ！
 ---
 
 # 以下はテンプレ、テクニックなど
-## 構成作成時
+## 0. 構成作成時
 論理的、つながり、接続詞や書きやすいように
 
 ## 1. Introduction
@@ -190,7 +137,7 @@ In conclusion, I affirm that the government should spend much money on the envir
 
 
 
-## その他、よく使うフレーズ
+## 4. その他、よく使うフレーズ
 
 ### 接続詞([文頭のbut, and ,so は禁止](http://lsdkawamo.cocolog-nifty.com/blog/2013/02/post-ab98.html))
 
