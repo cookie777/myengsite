@@ -26,7 +26,7 @@ Human has been facing a lot of difficult problems for a long time. It is not pos
 
 
 ## Body1
-In terms of quantity, we can gain plenty of information from the Internet. In these days, the technology of computer has developed. Thus, it it much easier for us to get many solutions from all around the world. The more samples you gain, the more possibility you will see. For instance, when I was really depressed I searched a lot of resolving from the Internet. Some of them were very effective. This way can be faster than asking someone. For the above reason, I think using technology is great method.
+In terms of quantity, we can gain plenty of information from the Internet. These days, the technology of computers has developed. Thus,  it much easier for us to get many solutions from all around the world. The more samples you gain, the more possibility you will see. For instance, when I was really depressed I searched a lot of resolving from the Internet. Some of them were very effective. This way can be faster than asking someone. For the above reason, I think using technology is a great method.
 
 ## Body2
 
@@ -66,7 +66,8 @@ In terms of quantity, we can gain plenty of information from the Internet. In th
 ### 使えそうなフレーズ
 * ～が大きな影響（関係）があるのはしっている。～とよく言われる。
   * Over the last few decades, この数十年で
-  * In these days,
+  * These days, (In these days は間違い)
+  * Nowadays, 
   * It is said that ~
   * ~ has a great impact on ~
   * ~ have something to do with ~
