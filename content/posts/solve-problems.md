@@ -6,6 +6,7 @@ draft: false
 
 # The Question
 "When you face difficult problems in life, what do you feel is the best way to solve them?" [^quoted from]
+
 * asking someone with more experience for advice about the problem
 * finding information about the problem using the Internet
 * taking a long time to think about the problem
@@ -25,6 +26,7 @@ Human has been facing a lot of difficult problems for a long time. It is not pos
 
 
 ## Body1
+In terms of quantity, we can gain plenty of information from the Internet. In these days, the technology of computer has developed. Thus, it it much easier for us to get many solutions from all around the world. The more samples you gain, the more possibility you will see. For instance, when I was really depressed I searched a lot of resolving from the Internet. Some of them were very effective. This way can be faster than asking someone. For the above reason, I think using technology is great method.
 
 ## Body2
 
@@ -41,7 +43,13 @@ Human has been facing a lot of difficult problems for a long time. It is not pos
   * writing introduction: 56 words in 3 minutes = 18.66 wmp
   * 過去最高のwmp ! やったぁあああ！ やっぱりテンプレと慣れが凄いｂ
   * 問題読む＋構成は時間多め。 重要なので問題ない
-  
+* 8/4
+  * wrote body 1
+  * 90 words in ?? minutes
+  * まさかの測定ミス
+  * でもわりと滞りなくかけた気がする
+  * good job
+  * 次回は以上の理由から～ に this example demonstrate that を使ってみたい
 ---
 
 # 以下はテンプレ、テクニックなど
