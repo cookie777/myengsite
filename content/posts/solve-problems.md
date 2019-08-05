@@ -29,7 +29,7 @@ Human has been facing a lot of difficult problems for a long time. It is not pos
 In terms of quantity, we can gain plenty of information from the Internet. These days, the technology of computers has developed. Thus,  it much easier for us to get many solutions from all around the world. The more samples you gain, the more possibility you will see. For instance, when I was really depressed I searched a lot of resolving from the Internet. Some of them were very effective. This way can be faster than asking someone. For the above reason, I think using technology is a great method.
 
 ## Body2
-
+From the efficient point of view, it will be much faster to solve issues. For example, If you ask or rely on someone when you in trouble, it will cost plenty of time to get a lot of solutions. On the other hand, we can get plenty of experiences and cases for a moment by utilizing the Internet. Moreover, we can get them with images and videos, so it is much effective to understand. This fact shows that searching for ways from the Internet is very efficient for us.
 
 ## Body3
 
@@ -50,6 +50,12 @@ In terms of quantity, we can gain plenty of information from the Internet. These
   * でもわりと滞りなくかけた気がする
   * good job
   * 次回は以上の理由から～ に this example demonstrate that を使ってみたい
+* 8/5
+  * wrote body2
+  * 87 words in 7.5 minutes = 11.6 wpm
+  * わりといい感じ。
+  * けっこう、つまったり、修正してこの速度なのでまだまだ伸びる可能性がある
+  * using the Internet の言い換えが難しい(；・∀・)
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -159,6 +165,8 @@ In terms of quantity, we can gain plenty of information from the Internet. These
 
 
 
+---
+
 ## 4. その他、よく使うフレーズ
 
 ### 接続詞([文頭のbut, and ,so は禁止](http://lsdkawamo.cocolog-nifty.com/blog/2013/02/post-ab98.html))
@@ -214,11 +222,14 @@ In terms of quantity, we can gain plenty of information from the Internet. These
     * come to [location]: 相手も目的地にいる場合、向かう
   * visit [location]: toいらない
  
-* agree **wtih**
+* agree **with**
    * withを付け忘れないこと
 
 *invest in
   * 投資する In
+
+* search **for**
+  * for をつけること
 
 ### vocabulary
 
@@ -273,6 +284,9 @@ In terms of quantity, we can gain plenty of information from the Internet. These
   * motivation (noun)  It gives me motivation
   * motivated (adj) I want to be(get) more motivated
   
+* the Internet
+  * the をつける
+  
 #### countable and uncountable
   * 人々の生活 = our lives
   * transportation (uc)
@@ -287,6 +301,7 @@ In terms of quantity, we can gain plenty of information from the Internet. These
   * human's はだめらしい humanでおｋ
   * effects c
   * focus on it.
+
 
 ### 疑問点
 * one of the reasons is ~ で理由を２つ上げる場合、同表現したらいい？
