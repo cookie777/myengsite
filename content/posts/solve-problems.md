@@ -32,7 +32,7 @@ In terms of quantity, we can gain plenty of information from the Internet. These
 From the efficient point of view, it will be much faster to solve issues. For example, If you ask or rely on someone when you in trouble, it will cost plenty of time to get a lot of solutions. On the other hand, we can get plenty of experiences and cases for a moment by utilizing the Internet. Moreover, we can get them with images and videos, so it is much effective to understand. This fact shows that searching for ways from the Internet is very efficient for us.
 
 ## Body3
-
+However, asking someone with more experiences for advice is also an effective way, because you get similar and easy-to-understand information. One the other hand, its way has some problems. First of all, we can get only a few cases and solutions about the problems. Secondly, some advice you get from your neighbor could have a large bias. Thus, I want to say that obtaining advice from someone is sometimes dangerous.
 
 ## Conclusion
 
@@ -56,6 +56,13 @@ From the efficient point of view, it will be much faster to solve issues. For ex
   * わりといい感じ。
   * けっこう、つまったり、修正してこの速度なのでまだまだ伸びる可能性がある
   * using the Internet の言い換えが難しい(；・∀・)
+* 8/6
+  * wrote body3
+  * 70 words in 7.5 minutes = 9.3 wpm
+  * ちょっと遅いかな…けど今回はいろいろ普段使わない表現とか試してみた結果なのでおｋ
+  * あとやっぱり反論パートは難しい。
+  * 反論主張→さらにその反論＋経験 だと結構量が多くなる… 難しい
+  * 今回は書かなかったけど、経験を短いものにしてみる？ 一文とか
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -106,7 +113,7 @@ From the efficient point of view, it will be much faster to solve issues. For ex
   * In terms of [noun] , From the viewpoint of [noun]  
   * From [adj] viewpoint～, From [adj] point of view~
     * From a professional viewpoint 専門的な観点から
-* ～的に：使える場面があれば…
+<!-- * ～的に：使える場面があれば…
   * Environmentally 環境的に
   * Culturally 文化的に
   * Scientifically 科学的に
@@ -115,7 +122,7 @@ From the efficient point of view, it will be much faster to solve issues. For ex
   * Socially 社会的に
   * Economically 経済的に
       * 金銭的には Financially の方がよい？
-  * Personally, From a personal angle 個人的に
+  * Personally, From a personal angle 個人的に -->
 * はじめに、第～に：ネタ切れ時の最終手段
   * In the first place
   * To begin with
