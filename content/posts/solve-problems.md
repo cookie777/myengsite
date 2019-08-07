@@ -24,18 +24,25 @@ draft: false
 ## Introduction
 Human has been facing a lot of difficult problems for a long time. It is not possible to avoid some of them. In order to solve those issues, I assert that using the Internet is one of the best way. I feel this way for several reasons and I will explain them in the following essay.
 
+* written in 8/3
 
 ## Body1
 In terms of quantity, we can gain plenty of information from the Internet. These days, the technology of computers has developed. Thus,  it much easier for us to get many solutions from all around the world. The more samples you gain, the more possibility you will see. For instance, when I was really depressed I searched a lot of resolving from the Internet. Some of them were very effective. This way can be faster than asking someone. For the above reason, I think using technology is a great method.
 
+* written in 8/4
+
 ## Body2
 From the efficient point of view, it will be much faster to solve issues. For example, If you ask or rely on someone when you in trouble, it will cost plenty of time to get a lot of solutions. On the other hand, we can get plenty of experiences and cases for a moment by utilizing the Internet. Moreover, we can get them with images and videos, so it is much effective to understand. This fact shows that searching for ways from the Internet is very efficient for us.
+* written in 8/5
+
 
 ## Body3
 However, asking someone with more experiences for advice is also an effective way, because you get similar and easy-to-understand information. One the other hand, its way has some problems. First of all, we can get only a few cases and solutions about the problems. Secondly, some advice you get from your neighbor could have a large bias. Thus, I want to say that obtaining advice from someone is sometimes dangerous.
+* written in 8/6
 
 ## Conclusion
-
+In conclusion, I contend that searching for solutions on the Internet is one of the best ways to solve the problem. This is because the Internet has a pile of information and you can get them at once, and it is also very easy to understand them because they include images and videos.
+* written in 8/7
 
 # Review
 * 8/3
@@ -63,6 +70,16 @@ However, asking someone with more experiences for advice is also an effective wa
   * あとやっぱり反論パートは難しい。
   * 反論主張→さらにその反論＋経験 だと結構量が多くなる… 難しい
   * 今回は書かなかったけど、経験を短いものにしてみる？ 一文とか
+
+* 8/7
+  * wrote conclusion
+  * 52 words in 3.5 minutes = 14.85 wpm
+  * うぉおお高い！ 素晴らしく高い！ やった！
+  * 結構、つまったり書き換えたのにこの高さ。やっぱりテンプレは強い
+  * My personal history is an example of this. ってFor example よりも具体的で文字数か稼げていいかも(ﾟ∀ﾟ) 使ってみよ
+  * 総評
+    * イントロと結論を如何にテンプレで早くできるかが鍵かな
+    * あと問題文を読む＋構成を考える でも大きく短縮はできるけど、ここは本当に根幹で重要な部分なのであまり焦らなくてもいいかも
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -138,6 +155,7 @@ However, asking someone with more experiences for advice is also an effective wa
 * For example ~ [experiences].
 * For instance ~ [experiences].
 * [experiences]  ~ is a example of this.
+  * My personal history is an exact example of this. 
 * I recently read a report in a major newspaper which pointed out that ~
 
 #### [また,しめの簡単な結論](https://eikaiwa.dmm.com/uknow/questions/28910/)
@@ -275,6 +293,10 @@ However, asking someone with more experiences for advice is also an effective wa
   * visit a foreign country
     * visit はto をつけないので注意！
     * また foreign county は aをつける
+
+* 解決する
+  * solve (solution: 客観的に正解がものに対する解決する
+  * resolve (resolution) : 主観的で正解のない問題（論点、争点）を解決する - 折り合いをつける
 
 * 宿泊費
   * accommodation fee
