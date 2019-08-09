@@ -15,16 +15,18 @@ draft: false
 
 # Answer
 
-The average of life expectancy has become longer than before in these days. In my opinion, I assert that the reason of this phenomenon is because of the improvement of the technology. I think this way for several reason, which I will explain in the following essay.
-
-* written in 8/8
 
 ## Handwriting-note
 
 ## Introduction
 
+The average of life expectancy has become longer than before in these days. In my opinion, I assert that the reason of this phenomenon is mainly because of the improvement of the technology. I think this way for several reason, which I will explain in the following essay.
+
+* written in 8/8
 
 ## Body1
+
+In terms of facilities, the technology of medical tools and remedy have been largely improving. A lot of cures have been found lately and machines that are used in hospitals and health centers are also advancing these days. For example, I have had hard backache. I thought that I couldn't cure it but after visiting the hospital, it has become well. This experience shows that the improvement of the treaty has a great impact on human lives.
 
 
 ## Body2
@@ -46,7 +48,12 @@ The average of life expectancy has become longer than before in these days. In m
   * カッコつけた用語 life expectancy とか使おうとして遅くなった。
   * やっぱり無理に書こうとした文だけ遅くなる
   * 練習だといいけど、本番的には 簡単に、けど構成はしっかりと、という方針でいきたい
-
+* 8/9
+  * wrote body1
+  * 75 in 8.5 minutes = 8.82 wpm
+  * nooooo
+  * やっぱり難しい表現に挑戦しちょうとして時間掛かってしまった
+  * 勉強にはなったのでおｋ
 ---
 
 # 以下はテンプレ、テクニックなど
