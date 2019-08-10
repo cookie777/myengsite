@@ -30,7 +30,7 @@ In terms of facilities, the technology of medical tools and remedy have been lar
 
 
 ## Body2
-
+From the viewpoint of information, we can get a lot of great tips from the Internet. The technology of media such as the Internet and TV have wildly advanced. Nowadays, we are able to get a lot of information about health and life hacks from them. My personal history is an example of this. When I was a child, I used to catch a severe cold. However, my parents attempted not only visiting the hospital but also getting a number of solutions from the TV and the Internet by themselves. That knowledge was very vital to my sick and I finally got well. This fact shows that the improvement of the technology has also a great effect on the life hack.
 
 
 ## Body3
@@ -54,6 +54,13 @@ In terms of facilities, the technology of medical tools and remedy have been lar
   * nooooo
   * やっぱり難しい表現に挑戦しちょうとして時間掛かってしまった
   * 勉強にはなったのでおｋ
+* 8/10
+  * wrote body2
+  * 120 words in 9 minutes = 13.3 wpm
+  * 素晴らしい
+  * My personal history is a example of this
+  * This fact shows
+  * など普段使わない表現を取り入れられた
 ---
 
 # 以下はテンプレ、テクニックなど
