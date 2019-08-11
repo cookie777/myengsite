@@ -27,14 +27,14 @@ The average of life expectancy has become longer than before in these days. In m
 ## Body1
 
 In terms of facilities, the technology of medical tools and remedy have been largely improving. A lot of cures have been found lately and machines that are used in hospitals and health centers are also advancing these days. For example, I have had hard backache. I thought that I couldn't cure it but after visiting the hospital, it has become well. This experience shows that the improvement of the treaty has a great impact on human lives.
-
+* written in 8/9
 
 ## Body2
 From the viewpoint of information, we can get a lot of great tips from the Internet. The technology of media such as the Internet and TV have wildly advanced. Nowadays, we are able to get a lot of information about health and life hacks from them. My personal history is an example of this. When I was a child, I used to catch a severe cold. However, my parents attempted not only visiting the hospital but also getting a number of solutions from the TV and the Internet by themselves. That knowledge was very vital to my sick and I finally got well. This fact shows that the improvement of the technology has also a great effect on the life hack.
-
+* written in 8/10
 
 ## Body3
-
+On the other hand, the development of technology can decrease the opportunity of exercising. For instance, people don't have to walk much than before because of cars and other transportation. However,  advanced technology can also provide us health. Training gym is an example of this. We can easily exercise using tools and gadgets. Thus, I think machines and devices are good for humans.
 
 ## Conclusion
 
@@ -61,6 +61,14 @@ From the viewpoint of information, we can get a lot of great tips from the Inter
   * My personal history is a example of this
   * This fact shows
   * など普段使わない表現を取り入れられた
+* 8/11
+  * wrote body3
+  * 66 words in 8 minutes = 8.25
+  * うーん、スペルがめんどくさい。細かいスペルにとらわれて1.5倍くらい時間かかってると思う
+  * 影響度としては スペルミス＜＜文字の少なさ のような感じがするので、とりあえず適当に多めに書いてあとから修正するかな？
+  * あとはbody3の反論パートだけ練習するのもありかも。
+  * このtopicが終わったら検討してみる
+
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -236,6 +244,12 @@ From the viewpoint of information, we can get a lot of great tips from the Inter
 
 * search **for**
   * for をつけること
+
+* できるようになる
+  * become able to
+  * is now able to
+  * 簡単にできるようになった
+  * it's become easy to ?
 
 ### vocabulary
 
