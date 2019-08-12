@@ -35,10 +35,11 @@ From the viewpoint of information, we can get a lot of great tips from the Inter
 
 ## Body3
 On the other hand, the development of technology can decrease the opportunity of exercising. For instance, people don't have to walk much than before because of cars and other transportation. However,  advanced technology can also provide us health. Training gym is an example of this. We can easily exercise using tools and gadgets. Thus, I think machines and devices are good for humans.
+* 8/11
 
 ## Conclusion
-
-
+In conclusion, I affirm that advanced technology has made people live much longer than before. This is because people became easier to get information about health and because of developed tools and facilities.
+* 8/12
 # Review
 
 * 8/8
@@ -68,7 +69,12 @@ On the other hand, the development of technology can decrease the opportunity of
   * 影響度としては スペルミス＜＜文字の少なさ のような感じがするので、とりあえず適当に多めに書いてあとから修正するかな？
   * あとはbody3の反論パートだけ練習するのもありかも。
   * このtopicが終わったら検討してみる
-
+* 8/12
+  * wrote conclusion
+  * 33 words in 3.5 minutes = 9.42
+  * テンプレ使った割には遅い
+  * その文、文の質は上がってる気がするけど
+  * 反論用のparagraphとconclusionだけメインで練習するかな？
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -87,12 +93,14 @@ On the other hand, the development of technology can decrease the opportunity of
   * Over the last few decades, この数十年で
   * These days, (In these days は間違い)
   * Nowadays, 
+  * Without a doubt,
   * It is said that ~
   * ~ has a great impact on ~
   * ~ have something to do with ~
 * 私の意見では「主張」
   * In my opinion(view), ~
   * I assert(affirm, argue, claim) that ~
+  * I strongly believe that
 * 以下でその理由を説明します
   * I feel(think) this way for two reasons, which I will explore(explain) in the following essay(paragraphs).
 
@@ -144,7 +152,7 @@ On the other hand, the development of technology can decrease the opportunity of
 * For example ~ [experiences].
 * For instance ~ [experiences].
 * [experiences]  ~ is a example of this.
-  * My personal history is an exact example of this. 
+  * My personal history is a [adj] example of this. 
 * I recently read a report in a major newspaper which pointed out that ~
 
 #### [また,しめの簡単な結論](https://eikaiwa.dmm.com/uknow/questions/28910/)
