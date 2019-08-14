@@ -21,16 +21,22 @@ body3の反論パートが慣れてないため、今回は
 * Intro: Thinking over when you should spend your moeny is vital qualification for your life. I think saving for the future is more important.
 * Body1: In terms of investment, if you save money for future, you will gain a lot. ex, investment, interset.
 * Bdoy2: Economically, if you use at once, you could lose a lot. Considering and wating for chance are good for making a living.
+* conclusion: In conclusion, I ~. This is because the attitude which invest something for your future is essential and because to avoid the risk of losing a pile of money.
 
 * thinking outline: 2.5 minutes
+* 8/13
 
 ## Body3
+However, some people might consider that enjoying the present time is important, and it is meaningless if you die with having a lot of money. I think this idea is also true but I still contend that if you cant endure spending money, that kind of attitude could apply for a number of situations. For example, you will be able to stand eating a lot even if you are on a diet. The mind which saving or standing something for the future is vital for life. 
 
-
-## Conclusion
 
 # Review
-
+* 8/14
+  * wrote body3
+  * 86 words in 5.5 minutes = 15.63 wpm
+  * marvelous! 素晴らしい！
+  * やっぱりテンプレ方針が決まるとしっかりする
+  * なと文章で悩んだ時は、とりあえず簡単な表現、単語でごまかして後で修正する気持ちで書くとよさげ。
 ---
 
 # 以下はテンプレ、テクニックなど
@@ -71,8 +77,8 @@ body3の反論パートが慣れてないため、今回は
 * 3rd
   * 文頭反論主張
   * それに対するまた反論（＝メインの主張をサポートするもの）
-  * 具体例
-  * 結論・・・？
+  * 短めの具体例
+  * 結論・・・？（いらないかも
 
 
 ### 使えそうなフレーズ
@@ -132,14 +138,15 @@ body3の反論パートが慣れてないため、今回は
 * なぜなら 「～bodyで述べた理由」 だから
   * 文頭
     *  「~の視点から」よりは「～だから」とSVの文章にしたほうが少し長くできる
-    * This is because ~
-    * The reason is ~
-    * I feel this way because ~
-  <!-- * 途中から
-    * ~  , because ~  (Because~ のように文頭にはNG！)
-    * ~ because of (noun)
-    * ~ due to (noun)
-    * ~ for (noun). -->
+    * １つめの理由: body1
+       * This is because ~
+       * The reason is ~
+       * I feel this way because ~
+    * 2つ目の理由：body2
+      * ~  ,and because ~  (Because~ のように文頭にはNG！)
+      * ~ ,and because of (noun)
+      * ~,and due to (noun)
+      <!-- * ~,and for (noun). -->
 
 
 
