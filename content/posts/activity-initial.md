@@ -1,7 +1,7 @@
 ---
 title: "TOEFL活動報告-08-15-2019"
 date: 2019-08-15T12:32:47Z
-draft: true
+draft: false
 ---
 
 # この記事について
