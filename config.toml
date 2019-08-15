@@ -2,7 +2,8 @@ baseURL = "https://japer-eng.netlify.com/"
 languageCode = "jp"
 title = "自分のTOEFL積み上げ記録"
 theme = "hyde"
-summaryLength = 10
+hasCJKLanguage = true
+# summaryLength = 1
 
 [params]
 author = "japer"
