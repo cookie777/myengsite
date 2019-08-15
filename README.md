@@ -7,7 +7,7 @@
 ```bash
 docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo
 docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo rver --bind=0.0.0.0 -w --disableFastRender -D
-docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo new posts/art-environment.md
+docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo new posts/activity-initial.md
 docker run --rm --name hugo -v $(pwd):/home/ -it -p 1313:1313 japer/hugo hugo new posts/activity-initial.md
 ```
 
