@@ -17,7 +17,7 @@ draft: false
 * ＋簡単な活動内容はtwitterの方にも載せている
 
 
-# 今日の活動 08-15-2019
+# 今日の活動 
 ## Reading
 ### Reading skill : 基本的にgoogleニュースを読んだり、問題を説いたり
 * googleニュースより英語の記事を何個か読んだ: 20分
@@ -49,5 +49,5 @@ draft: false
     * Readingパートの後半の理由、詳細パートに対応して生徒が意見を述べているので、ヒントになってる？
 
 ## その他
-* [typingclub](https://www.typingclub.com/sportal/push_results_display/1275856421/)でタイピング練習：5分
+* [typingclub](https://www.typingclub.com/)でタイピング練習：5分
 * モチベを上げるための英語の音声日記をyoutubeに投稿→[動画](https://youtu.be/XX1hs6VDbdI)：10分
