@@ -1,7 +1,7 @@
 ---
 title: "TOEFL活動報告 and Dr.Bull ってドラマおもろい 08-17-2019"
 date: 2019-08-17T12:56:26Z
-draft: true
+draft: false
 ---
 
 
