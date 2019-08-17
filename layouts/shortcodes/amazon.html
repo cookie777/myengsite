@@ -1,6 +1,6 @@
 {{ $associateId := "YOUR_ASSOCIATE_ID" }}
 {{ $itemId := index .Params 0 }}
-{{ $json := getJSON "http://example.com/amazon/lookup.php?item=" $itemId }}
+{{ $json := getJSON "https://yourapi.com/?itemid=" $itemId }}
 
 <div class="amazon-shortcode-box">
   <div class="amazon-shortcode-image">
@@ -18,18 +18,18 @@
       <p class="amazon-shortcode-author">{{ . }}</p>
     {{ end }}
     <div class="amazon-shortcode-detail">
-      {{ if or ( eq $json.product_group "Book") (eq $json.product_group "eBooks") }}
-        <p>出版社：{{ $json.label }}</p>
+      {{ if or ( eq $json.productgroup "Book") (eq $json.productgroup "eBooks") }}
+        <p>出版社：{{ $json.publisher }}</p>
       {{ else }}
         <p>{{ $json.label }}</p>
       {{ end }}
-      {{ with $json.release_date }}
+      {{ with $json.publicationdate }}
         <p>発売日：{{ . }}</p>
       {{ end }}
     </div>
     <p>
       <a href="http://www.amazon.co.jp/exec/obidos/ASIN/{{ $itemId }}/{{ $associateId }}/" name="backport" target="\_blank">
-        <i class="bp_icon icon icon-amazon"></i>&nbsp;Amazonで詳細を見る
+        <i class="fa fa-amazon" aria-hidden="true"></i>&nbsp;Amazonで詳細を見る
       </a>
     </p>
   </div>
