@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-# 今日の活動 about : 3.5 hours
+# 今日の活動 about : 5 hours
 ## Reading
 ### Reading skill : 基本的にgoogleニュースを読んだり、問題を説いたり
 * googleニュースより英語の記事を何個か読んだ: 30分
