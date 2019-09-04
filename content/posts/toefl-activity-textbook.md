@@ -4,7 +4,7 @@ date: 2019-09-04T11:08:41Z
 draft: false
 ---
 
-# 今日の活動 about : 4.5 hours
+# 今日の活動 about : 3.2 hours
 
 
 ## Reading
