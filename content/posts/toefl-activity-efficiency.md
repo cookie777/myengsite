@@ -3,7 +3,6 @@ title: "My Activity as to Toefl; I've refined my blog content !"
 date: 2019-09-08T12:13:39Z
 draft: false
 ---
-
 # English
 
 ## Reading practice
@@ -25,7 +24,7 @@ draft: false
 ## Speaking
 
 - [x] record my talking, chatting , and speaking as for my daily activity and upload to youtube
-  {{< youtube id="j9EMMfMtoIQ" >}}
+{{< youtube j9EMMfMtoIQ 3>}}
 - [x] practice Toefl Integrated speaking  by using several web service
   - [ ] part 2 (used to be part 3 before 09/2019)
   - [x] part 3 (4)
