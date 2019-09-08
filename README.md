@@ -93,3 +93,16 @@ head.html系などテーマのmetaを記述している部分に以下を追加
   <meta name="twitter:title" value="{{ .Title }}"/>
   <meta name="twitter:description" value="{{ .Site.Params.description }}"/>
   <meta name="twitter:image" value="{{ .Site.BaseURL }}{{ .Site.Params.ogp_thumb }}" />
+
+## shortcode
+### youtube
+```html
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/{{ index .Params 0 }}?start={{ index .Params 1 }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+```
+
+
+## Modified basic setting
+* change default.md 
+  > title: "My activity as for TOEFL;  {{ dateFormat "1/2/2006" .Date }}"
