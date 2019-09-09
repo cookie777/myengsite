@@ -1,6 +1,6 @@
 ---
 # title: "Toefl Activity Luther"
-title: "My activity as for TOEFL; Stared watching \"Luther\"  9/9/2019"
+title: "My activity as for TOEFL; Started watching \"Luther\"  9/9/2019"
 date: 2019-09-09T11:48:47Z
 draft: false
 ---
@@ -42,7 +42,7 @@ draft: false
 
 
 
-**Today's Total studying time:      hour**
+**Today's Total studying time: 5  hour**
 
 
 

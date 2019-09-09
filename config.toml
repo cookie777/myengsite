@@ -3,7 +3,7 @@ languageCode = "jp"
 title = "自分のTOEFL積み上げ記録"
 theme = "hyde"
 hasCJKLanguage = true
-summaryLength = 50
+summaryLength = 20
 
 [params]
 author = "japer"

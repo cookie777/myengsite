@@ -106,3 +106,9 @@ head.html系などテーマのmetaを記述している部分に以下を追加
 ## Modified basic setting
 * change default.md 
   > title: "My activity as for TOEFL;  {{ dateFormat "1/2/2006" .Date }}"
+* summary size 
+https://hugo.nakaken88.com/master/summaries/
+```yml
+hasCJKLanguage = true # 日本語で単語カウントが認識される
+summaryLength = 20
+```
