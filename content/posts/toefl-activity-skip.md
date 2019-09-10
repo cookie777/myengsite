@@ -9,7 +9,7 @@ draft: false
 
 I think my reading skill about comprehending passage might be progressing. I'm very pleased with this !
 
-Yet I still mistake at lot in TOEFL reading questions.  Then, I've noticed it's quite useless to spend much time to answer them that I always mistake. I mean, I've realized I can not do that, **even if I have plenty of time**. This is because those questions are mostly based on vocabulary and quite difficult comprehension. As to Vocabulary, it's hard to guess the meaning from passage when you don't know about the word. As to comprehension, I feel that those question (In average, there exist one in each passage) are not able to answer even if I read in Japanese, which is mother language to me. 
+Yet I still mistake at lot in TOEFL reading questions.  Then, I've noticed it's quite useless to spend much time to answer them that I always mistake. I mean, I've realized I can not do that, **even if I have plenty of time**. This is because those questions are mostly based on vocabulary and quite difficult comprehension. As to Vocabulary, it's hard to guess the meaning from passage when you don't know about the word. As to comprehension, I feel that those question (In average, there exist one in each passage) are not able to answer even if I read in Japanese, which is mother language to me.
 
 In short, I think I should skip some questions immediately and bravely, if I can't answer, in order to save time for other valuable questions. 😄
 
@@ -39,7 +39,7 @@ In short, I think I should skip some questions immediately and bravely, if I can
 - [x] get used to reading current topics (reading [google news](https://news.google.com/))
 - [x] learn general terms and  vocabulary (text book: [DUO 3.0](https://www.amazon.co.jp/dp/4900790052/))
 - [x] technical terms (text book)
-- [ ] technical background ([text book](https://www.amazon.co.jp/dp/B010F8HNT2/))
+- [x] technical background ([text book](https://www.amazon.co.jp/dp/B010F8HNT2/))
 - [ ] take a mini-exams (at English class)
 
 ## Listening
