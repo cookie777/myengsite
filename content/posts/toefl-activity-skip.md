@@ -1,6 +1,6 @@
 ---
 # title: "Toefl Activity Skip"
-title: "My activity as for TOEFL;  I should skip some questions bravery. 9/10/2019"
+title: "My activity as for TOEFL;  I should skip some questions bravely. 9/10/2019"
 date: 2019-09-10T13:59:00Z
 draft: false
 ---
@@ -11,7 +11,7 @@ I think my reading skill about comprehending passage might be progressing. I'm v
 
 Yet I still mistake at lot in TOEFL reading questions.  Then, I've noticed it's quite useless to spend much time to answer them that I always mistake. I mean, I've realized I can not do that, **even if I have plenty of time**. This is because those questions are mostly based on vocabulary and quite difficult comprehension. As to Vocabulary, it's hard to guess the meaning from passage when you don't know about the word. As to comprehension, I feel that those question (In average, there exist one in each passage) are not able to answer even if I read in Japanese, which is mother language to me. 
 
-In short, I think I should skip some questions immediately and bravery, if I can't answer, in order to save time for other valuable questions. 😄
+In short, I think I should skip some questions immediately and bravely, if I can't answer, in order to save time for other valuable questions. 😄
 
 
 
