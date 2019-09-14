@@ -49,7 +49,7 @@ Today, I went to Costco in Japan so as to eat dinner. I like Costco because its 
 - [x] practice TOEFL Independent speaking
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
 
-{{< youtube j9EMMfMtoIQ >}}
+{{< youtube https://youtu.be/D5Yb6jk-yFs >}}
 
 - [x] practice TOEFL Integrated speaking  by using several web service
   - [ ] part 2 (used to be part 3 before 09/2019)
