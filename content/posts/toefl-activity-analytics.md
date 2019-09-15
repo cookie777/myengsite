@@ -51,7 +51,7 @@ I've finished one of my textbook -- as for terms and vocabulary ["DUO 3.0"](http
 - [ ] practice TOEFL Independent speaking
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
 
-{{< youtube j9EMMfMtoIQ >}}
+{{< youtube rddIFYNhtqQ >}}
 
 - [ ] practice TOEFL Integrated speaking  by using several web service
   - [ ] part 2 (used to be part 3 before 09/2019)
