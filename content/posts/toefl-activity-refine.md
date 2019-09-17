@@ -1,6 +1,6 @@
 ---
 # title: "Toefl Activity Refine"
-title: "My activity as for TOEFL;  9/17/2019"
+title: "My activity as for TOEFL; Refining my study schedule.  9/17/2019"
 date: 2019-09-17T10:35:55Z
 draft: false
 ---
