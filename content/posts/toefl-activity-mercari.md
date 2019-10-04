@@ -130,5 +130,6 @@ Lately, I've been using "Mercari" which is one of the web-services used to sell 
 
 # Other activity
 
-- [x] 
+- [x] bought more vegetable, cooked and ate then so as to enhance my fitness.
+- [ ] 
 
