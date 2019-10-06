@@ -38,7 +38,7 @@ Today, I'm gonna make a call to one of my best friend so as to ask some advice a
 
 ### optional
 
-- [ ] get accustomed to solving real TOEFL questions  (by [textbook](https://www.amazon.co.jp/dp/4862902014/) and other several web services)
+- [x] get accustomed to solving real TOEFL questions  (by [textbook](https://www.amazon.co.jp/dp/4862902014/) and other several web services)
 - [ ] learn technical background ([textbook](https://www.amazon.co.jp/dp/4789015874/))
 - [ ] ~~enhance grammar ([textbook](https://www.amazon.co.jp/dp/4896808371/)) I've mostly finished !~~
 - [ ] take a mini-exams (at English class)
@@ -102,7 +102,7 @@ Today, I'm gonna make a call to one of my best friend so as to ask some advice a
 
 ## Up to
 
-**Today's Total studying time:   4   hour**
+**Today's Total studying time:   5   hour**
 
 
 
