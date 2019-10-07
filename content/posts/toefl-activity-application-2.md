@@ -40,7 +40,7 @@ I also decided when to take TOEFL test, 10/19, and I'm gonna apply for it 😁
 
 ### optional
 
-- [ ] get accustomed to solving real TOEFL questions  (by [textbook](https://www.amazon.co.jp/dp/4862902014/) and other several web services)
+- [X] get accustomed to solving real TOEFL questions  (by [textbook](https://www.amazon.co.jp/dp/4862902014/) and other several web services)
 - [ ] learn technical background ([textbook](https://www.amazon.co.jp/dp/4789015874/))
 - [ ] ~~enhance grammar ([textbook](https://www.amazon.co.jp/dp/4896808371/)) I've mostly finished !~~
 - [ ] take a mini-exams (at English class)
@@ -104,7 +104,7 @@ I also decided when to take TOEFL test, 10/19, and I'm gonna apply for it 😁
 
 ## Up to
 
-**Today's Total studying time:   4   hour**
+**Today's Total studying time:   5   hour**
 
 
 
