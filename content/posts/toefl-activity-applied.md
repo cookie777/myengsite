@@ -130,6 +130,6 @@ I eventually applied for TOEFL, whose day is October 19. It costed $235 which I 
 
 # Other activity
 
-- [X] applied for TEOFL
+- [X] applied for TOEFL
 - [X] arranged information about colleges in Canada
 
