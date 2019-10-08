@@ -72,7 +72,7 @@ I also decided when to take TOEFL test, 10/19, and I'm gonna apply for it 😁
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
 
-{{< youtube qp5VUBdXJf4+>}}
+{{< youtube qp5VUBdXJf4>}}
 
 - [x] practice TOEFL Integrated speaking  by using several web service
   - [ ] part 2 (used to be part 3 before 09/2019)
