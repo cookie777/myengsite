@@ -8,11 +8,8 @@ draft: false
 # A look-back on the day
 
 
-I cleaned my bath in order to take a bath. This doesn't mean that I don't wash my body everyday. It means that I usually take just a shower, not bath.
-In Japan, we typically wash our bodies outside of the bath, and then soak in the bath. This implies that we don't actually have to use bath so those who only take a shower everyday have a tendency that their bathes are not clean enough to soak themselves, unless they clean bathes regularly. Therefore, I cleaned in order that I will be capable to soak in the bath, which meas that I can relax and relieve myself than before. Yes, this is all for TOEFL 😁
-
-
-
+I cleaned my bath in order to take a bath. This doesn't mean that I don't wash my body every day. It means that I usually take just a shower, not a bath.
+In Japan, we typically wash our bodies outside of the bath and then soak in the bath. This implies that we don't actually have to use a bath so those who only take a shower every day have a tendency that their bathes are not clean enough to soak themselves, unless they clean bathes regularly. Therefore, I cleaned in order that I will be capable to soak in the bath, which means that I can relax and relieve myself than before. Yes, this is all for TOEFL 😁
 
 
 
