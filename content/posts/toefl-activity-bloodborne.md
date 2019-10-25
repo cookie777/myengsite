@@ -68,7 +68,7 @@ Lately, I've been playing "Blood borne", which is one of the games published by 
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
 
-{{< youtube >}}
+{{< youtube xDHFe_6YhUk >}}
 
 ### optional
 
