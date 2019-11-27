@@ -1,14 +1,15 @@
 baseURL = "https://japer-eng.netlify.com/"
 languageCode = "jp"
-title = "自分のTOEFL積み上げ記録"
+title = "My activity log"
 theme = "hyde"
+# theme = "northendlab"
 hasCJKLanguage = true
 summaryLength = 20
 
 [params]
 author = "japer"
-keywords = ["Toefl","Writing","practice","blog"]
-description = "TOEFL上達のため活動した内容を記録する日記(最初の数記事はIndepedant writingの演習、回答を投稿)。現在は各セクションにおいて何をしたか、そのコツと共に記録"
+keywords = ["English","school","TOEFL","blog","study abroad"]
+description = "My activity, especially for getting job, studying English and abroad"
 ogp_thumb = "images/ogp_thumb.jpg"
 twitter_auther = "@cookie_m0gum0gu"
 # common_title = "TOEFL independent-writing topic: "

@@ -10,7 +10,8 @@ docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo serv
 docker run --rm --name hugo -v %cd%:/home/ -it -p 1313:1313 japer/hugo hugo new posts/toefl-activity-school.md
 docker run --rm --name hugo -v $(pwd):/home/ -it -p 1313:1313 japer/hugo hugo new posts/toefl-activity-home.md
 ```
-
+docker run --rm --name hugo -v $(pwd):/home/ -it -p 1313:1313 japer/hugo hugo
+docker run --rm --name hugo -v $(pwd):/home/ -it -p 1313:1313 japer/hugo hugo server --bind=0.0.0.0 -w --disableFastRender -D
 # Customized history
 ここにはTIPSより具体的にやった内容だけ記述
 ## Initalized
