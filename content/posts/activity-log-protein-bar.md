@@ -51,7 +51,7 @@ I bought several protein bar and cookies. These protein snacks contain more prot
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
 
-{{< youtube >}}
+{{< youtube dK8kdBDCr5g>}}
 
 ​	+
 
