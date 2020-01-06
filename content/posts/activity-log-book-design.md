@@ -9,7 +9,7 @@ draft: false
 # A look-back on the day
 
 
-I started reading another book of design, which title is "100 things every designer needs to know about people." It shows some principles or rules mostly related to design. One of the great things of this book is almost all of the rules are based on papers or theses. This means that every foundings are objective and firm. This is why I bought this book. ☺
+I started reading another book of design, which title is "100 things every designer needs to know about people." It shows some principles or rules mostly related to design. One of the great things of this book is almost all of the rules are based on papers or theses. This means that every foundings are objective and firm. This is why I bought this book. 
 
 ---
 
