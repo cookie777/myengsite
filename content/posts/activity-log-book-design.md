@@ -82,9 +82,9 @@ I started reading another book of design, which title is "100 things every desig
 Completed
     - ~~[The Non-Designer's](https://www.amazon.com/dp/0133966151/)~~
 
-- ~~ [UIデザイン　みんなで考え、カイゼンする](https://www.amazon.co.jp/dp/B07PQF8TBW/)
-  Read the book about basic color principles. [Reference](https://www.amazon.co.jp/dp/4844367714/)
-  Read the book about basic layout principles. [Reference](https://www.amazon.co.jp/dp/B07NYN1681/)~~
+- ~~[UIデザイン　みんなで考え、カイゼンする](https://www.amazon.co.jp/dp/B07PQF8TBW/)~~
+- ~~[やさしい配色の教科書](https://www.amazon.co.jp/dp/4844367714/)~~
+- ~~[レイアウト・デザインの教科書](https://www.amazon.co.jp/dp/B07NYN1681/)~~
 
 # Study about Programming
 
