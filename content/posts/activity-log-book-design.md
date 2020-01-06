@@ -31,7 +31,7 @@ I started reading another book of design, which title is "100 things every desig
 ## Speaking
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
-  {{< youtube [Y5epHsjozKU](https://youtu.be/Y5epHsjozKU)>}}
+  {{< youtube Y5epHsjozKU>}}
 - [ ] go to English class and talk to teachers (mostly once a week)
 
 ## Writing
