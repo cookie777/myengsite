@@ -41,7 +41,7 @@ Mahjong is one of the Japanese traditional board games. It originally comes from
 ## Speaking
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
-  {{< youtube {{< youtube ljT5VdfH8oQ>}}>}}
+    {{< youtube ljT5VdfH8oQ>}}
 - [ ] go to English class and talk to teachers (mostly once a week)
 
 ## Writing
