@@ -1,15 +1,16 @@
 ---
-# title: "Activity Log Twitter Profile"
-# title: "My activity as for TOEFL;  3/4/2020"
-title: "Activity logs regarding English; Twitter profile"
-date: 2020-03-04T06:42:52Z
+# title: "Activity Log Iphone Se2"
+# title: "My activity as for TOEFL;  3/5/2020"
+title: "Activity logs regarding English; iPhone se2"
+date: 2020-03-05T11:32:04Z
 draft: false
 ---
 
 # A look-back on the day
 
 
-I'm considering revising my twitter profile. I made my twitter account to collect useful information and output what I did. Recently, I felt like having some feedbacks for my output. To realize this, I need to increase my followers. Therefore, I reckon it's good to have a clear and obvious profile of twitter so people can easily understand I'm doing.👻
+I'm planning to purchase iPhone SE2. There was a rumor that Apple was going to sell it in March. However, recently it changed and it is said that Apple is going to postpone and launch selling SE2 in April or later. I want to buy SE2 because its price is reasonable compare to other iPhones. Besides, I want to use the iPhone to create and study about UI/UX design. 🍒
+
 
 
 
@@ -40,7 +41,7 @@ I'm considering revising my twitter profile. I made my twitter account to collec
 ## Speaking
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
-  {{< youtube RYhZ59wcl-g >}}
+  {{< youtube p0UUq4MlSIQ>}}
 - [ ] go to English class and talk to teachers (mostly once a month)
 
 ## Writing
@@ -53,7 +54,7 @@ I'm considering revising my twitter profile. I made my twitter account to collec
 
 # Prepare for the school
 
-- [x] deal with application for student VISA
+- [ ] deal with application for student VISA
 
 - ## completed
 
@@ -68,7 +69,7 @@ I'm considering revising my twitter profile. I made my twitter account to collec
   - [x] [100 things every designer needs to know about people](https://www.amazon.com/dp/4873115574)
   - [x] [いちばんよくわかるWebデザインの基本きちんと入門 ](https://www.amazon.com/dp/4797389656)
   - ~~Temporally suspend[The Pocket Universal Principles of Design](https://www.amazon.com/dp/1631590405/)~~
-- [x] consider what to do next
+- [ ] consider what to do next
 - [x] Consider and organize Design tips
 
 Completed
@@ -109,13 +110,13 @@ Completed
 
 - [x] stretch
 
-- [ ] push up x 30 x 2
+- [x] push up x 30 x 2
 
 - [ ] pull up (chin up) x 10 x 2
 
 - [x] crunch
 
-- [x] meditation
+- [ ] meditation
 
   
 
@@ -127,4 +128,5 @@ Completed
 
 # Additional activity
 
-- [x] googled and download some popular icons to make mockup
+- [x] considered my plan about studying and practicing design
+
