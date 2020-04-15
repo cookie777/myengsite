@@ -45,7 +45,7 @@ When I buy toothpaste, I become particular about it. I always try to choose that
 ## Speaking
 
 - [x] record my talking, chatting and speaking as for my daily activity, and then upload to youtube
-  {{< youtubez 4rmnvuEVhik>}}
+  {{< youtube 4rmnvuEVhik>}}
 - [ ] go to English class and talk to teachers (mostly once a month)
 
 ## Writing
