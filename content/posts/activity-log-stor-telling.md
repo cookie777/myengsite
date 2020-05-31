@@ -1,15 +1,14 @@
 ---
-# title: "Activity Log Ps5"
-# title: "My activity as for TOEFL;  5/30/2020"
-title: "Activity logs regarding English; PS5"
-date: 2020-05-30T14:06:25Z
+# title: "Activity Log Stor Telling"
+# title: "My activity as for TOEFL;  5/31/2020"
+title: "Activity logs regarding English; Storytelling"
+date: 2020-05-31T14:07:29Z
 draft: false
 ---
 
-
 # 💡 Today's Topic
 
-PS5 is the latest game hardware that will be released from Sony computer games. We still know just a little about it. We don't even know how it looks. However, Sony announced that they will inform something new about PS5 in a few days. We might know how and what it looks on that daygame🎮
+Storytelling is a process or a method to use a story or narrative when you are to persuade someone or express your opinion. There are several key points for storytelling. First, it should include background or context. It also should include good plots and main characters。Finally, it is also important to consider the atmosphere🐾
 ---
 
 # 🌱 A look-back on the day
@@ -65,17 +64,18 @@ PS5 is the latest game hardware that will be released from Sony computer games. 
 ### 💎 Enhancing my UIUX skill
 
 - [x]  studied UX works (Udemy course 1)
-- [x]  studied UI,sketch (Udemy course)
-- [x]  studied CSS (grid,responsive) (Udemy course)
 - [x]  studied UX works (Udemy course 2)
+- [x]  studied CSS (grid,responsive) (Udemy course)
+- [x]  studied UI,sketch (Udemy course)
 
 ### 🌎 Portfolio
 
-- [x]  [https://www.youtube.com/watch?v=QA0XpGhiz5w](https://www.youtube.com/watch?v=QA0XpGhiz5w&t=450s)
+- [x]  [https://www.youtube.com/watch?v=QA0XpGhiz5w&t=450s](https://www.youtube.com/watch?v=QA0XpGhiz5w&t=450s)
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  search apartment hunting
+- [x]  organized to do list
+- [x]  considered what to dispose before going Canada
 
 ### 💪 Exercise
 
@@ -97,7 +97,7 @@ option
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube QoKfaLJT8Cc>}}
+{{< youtube iSwfVmXARAc>}}
 
 ### 📚 Writing
 
@@ -106,12 +106,12 @@ option
 
 ### 🖋 Output: Post my activity work on
 
-- [x]  blog
-- [x]  YouTube
+- [ ]  blog
+- [ ]  YouTube
 
 ---
 
-# ⌛ Total time of my activity work:   5 Hour
+# ⌛ Total time of my activity work:   6 Hour
 
 ---
 
