@@ -1,15 +1,15 @@
 ---
-# title: "Activity Log Concentration"
-# title: "My activity as for TOEFL;  7/3/2020"
-title: "Activity logs regarding English; "
-date: 2020-07-03T07:45:26Z
+# title: "Activity Log Mold"
+# title: "My activity as for TOEFL;  7/8/2020"
+title: "Activity logs regarding English; Mold"
+date: 2020-07-08T04:36:43Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
+Mold is one of the fungi that grow in a humid and dirty place. We mostly found them in the bathroom or kitchen. It is a little bit hard to get rid of them unless you use some special chemical. Most people might hate mold, but that doesn't mean all the fungus are harmful, because the mushroom is also one of the fungi🍄
 
-Concentration is important to deal with tasks. There are a lot of ways to make yourself focused on something. However, I do also affirm that it is important to find a way when you are not concentrated. It is vital to prepare methods or ways when you can't focus on. This is because people can't always do their best. We have to manage something when we are in bad condition🐾
 ---
 
 # 🌱 A look-back on the day
@@ -71,11 +71,11 @@ Concentration is important to deal with tasks. There are a lot of ways to make y
 
 ### 🌎 Portfolio
 
-- [x]  consider design guide
+- [x]  considered wire frame
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  creating bank account
+- [x]  discarded the fridge and washing machine
 
 ### 💪 Exercise
 
@@ -93,21 +93,21 @@ option
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube kRHr4M2SbzE >}}
+{{< youtube oWWulPZzC1M>}}
 
 ### 📚 Writing
 
-- [x]  wrote a short story about some specific topic (which is written "Today's Topic")
-- [x]  practice typing via using several websites([TypingClub](https://www.typingclub.com/), [speedtypingonline](https://www.speedtypingonline.com/games/type-the-alphabet.php))
+- [ ]  wrote a short story about some specific topic (which is written "Today's Topic")
+- [ ]  practice typing via using several websites([TypingClub](https://www.typingclub.com/), [speedtypingonline](https://www.speedtypingonline.com/games/type-the-alphabet.php))
 
 ### 🖋 Output: Post my activity work on
 
-- [x]  blog
-- [x]  YouTube
+- [ ]  blog
+- [ ]  YouTube
 
 ---
 
-# ⌛ Total time of my activity work:  2.5 Hour
+# ⌛ Total time of my activity work: 2.5  Hour
 
 ---
 
