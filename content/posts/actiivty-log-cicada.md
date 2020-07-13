@@ -86,7 +86,7 @@ In Japan, a number of cicadas start to chirp in the middle of July, after the ra
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube qJxJVHlGLHU>}}
+{{< youtube fRFd8Is9mrI>}}
 
 ### 📚 Writing
 
