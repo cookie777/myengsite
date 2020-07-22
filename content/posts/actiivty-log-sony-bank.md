@@ -1,14 +1,15 @@
 ---
-# title: "Actiivty Log Mirror"
-# title: "My activity as for TOEFL;  7/11/2020"
-title: "Activity logs regarding English; Mirror"
-date: 2020-07-11T06:23:20Z
+# title: "Actiivty Log Sony Bank"
+# title: "My activity as for TOEFL;  7/20/2020"
+title: "Activity logs regarding English; Sony bank"
+date: 2020-07-20T08:04:58Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
-A mirror reflects ourselves. It has an interesting feature, which is it shows the left and right opposite. However, it doesn't reflect upside down. Some people say it shows the back and front side the opposite. A lot of people, including me confuse this fact.🚪
+Recently, I decided to use Sony Bank, because it seems suitable to use when you go to other countries. As you know, if you use a credit or debit card in other countries, it cost much higher than usual due to the translate fee. However, sony bank takes less fee compared to other banks.💵
+
 
 ---
 
@@ -49,11 +50,11 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 - [x]  studied UX works (Udemy course 2)
 - [x]  studied CSS (grid,responsive) (Udemy course)
 - [x]  studied UI,sketch (Udemy course)
-- [x]  conducted random UIUX product
+- [x]  drove random UIUX product
 
 ### 🌎 Portfolio
 
-- [x]  creating wireframe
+- [x]  mockup
 
 # 🥚 Phase 02
 
@@ -72,35 +73,35 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  addressed about homestay
+- [x]  addressed about my pension
 
 ### 💪 Exercise
 
-- [x]  push up x 20 x 2
+- [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
-- [ ]  meditation
+- [x]  meditation
 
 # 🌙 Phase 3
 
 ### 📚 Speaking
 
-- [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube rDC626tVE4E>}}
+- [ ]  Uploaded a video about speaking I what did on the day and some topic. 
+{{< youtube yiVJ3_hYphg>}}
 
 ### 📚 Writing
 
-- [x]  wrote a short story about some specific topic (which is written "Today's Topic")
-- [x]  practice typing via using several websites([TypingClub](https://www.typingclub.com/), [speedtypingonline](https://www.speedtypingonline.com/games/type-the-alphabet.php))
+- [ ]  wrote a short story about some specific topic (which is written "Today's Topic")
+- [ ]  practice typing via using several websites([TypingClub](https://www.typingclub.com/), [speedtypingonline](https://www.speedtypingonline.com/games/type-the-alphabet.php))
 
 ### 🖋 Output: Post my activity work on
 
-- [x]  blog
-- [x]  YouTube
+- [ ]  blog
+- [ ]  YouTube
 
 ---
 
-# ⌛ Total time of my activity work: 1.5  Hour
+# ⌛ Total time of my activity work:   Hour
 
 ---
 

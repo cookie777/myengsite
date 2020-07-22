@@ -1,14 +1,14 @@
 ---
-# title: "Actiivty Log Mirror"
-# title: "My activity as for TOEFL;  7/11/2020"
-title: "Activity logs regarding English; Mirror"
-date: 2020-07-11T06:23:20Z
+# title: "Actiivty Log Clock"
+# title: "My activity as for TOEFL;  7/21/2020"
+title: "Activity logs regarding English; Clock"
+date: 2020-07-21T07:36:47Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
-A mirror reflects ourselves. It has an interesting feature, which is it shows the left and right opposite. However, it doesn't reflect upside down. Some people say it shows the back and front side the opposite. A lot of people, including me confuse this fact.🚪
+A Clock, in addition to a watch, has two types, one is analog, and another is digital. Analog is more intuitive to know what time it is but hard to know the precise time. It is also difficult to recognize if it is AM or PM. On the other hand, digital clocks or watches are easy to know AM and PM, but they are not so intuitive🕰
 
 ---
 
@@ -49,11 +49,11 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 - [x]  studied UX works (Udemy course 2)
 - [x]  studied CSS (grid,responsive) (Udemy course)
 - [x]  studied UI,sketch (Udemy course)
-- [x]  conducted random UIUX product
+- [x]  drove random UIUX product
 
 ### 🌎 Portfolio
 
-- [x]  creating wireframe
+- [x]  wireframe
 
 # 🥚 Phase 02
 
@@ -72,21 +72,21 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  addressed about homestay
+- [x]  check flight ticket and baggedge
 
 ### 💪 Exercise
 
-- [x]  push up x 20 x 2
+- [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
-- [ ]  meditation
+- [x]  meditation
 
 # 🌙 Phase 3
 
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube rDC626tVE4E>}}
+{{< youtube 4MopAxkt5LU>}}
 
 ### 📚 Writing
 
@@ -100,7 +100,7 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ---
 
-# ⌛ Total time of my activity work: 1.5  Hour
+# ⌛ Total time of my activity work: 2  Hour
 
 ---
 

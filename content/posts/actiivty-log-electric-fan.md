@@ -1,15 +1,14 @@
 ---
-# title: "Actiivty Log Mirror"
-# title: "My activity as for TOEFL;  7/11/2020"
-title: "Activity logs regarding English; Mirror"
-date: 2020-07-11T06:23:20Z
+# title: "Actiivty Log Electric Fan"
+# title: "My activity as for TOEFL;  7/22/2020"
+title: "Activity logs regarding English; Electric Fan"
+date: 2020-07-22T08:23:31Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
-A mirror reflects ourselves. It has an interesting feature, which is it shows the left and right opposite. However, it doesn't reflect upside down. Some people say it shows the back and front side the opposite. A lot of people, including me confuse this fact.🚪
-
+An electric fan is a device to make something cool or cold. Its system is simple, just make a wind. The advantage is it is cheaper than an air conditioner and it uses little electricity. However, the fan just makes wind and not so cold🎐
 ---
 
 # 🌱 A look-back on the day
@@ -49,11 +48,11 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 - [x]  studied UX works (Udemy course 2)
 - [x]  studied CSS (grid,responsive) (Udemy course)
 - [x]  studied UI,sketch (Udemy course)
-- [x]  conducted random UIUX product
+- [x]  drove random UIUX product
 
 ### 🌎 Portfolio
 
-- [x]  creating wireframe
+- [x]  mockup
 
 # 🥚 Phase 02
 
@@ -72,7 +71,7 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  addressed about homestay
+- [x]  sent documents about my retirement
 
 ### 💪 Exercise
 
@@ -86,7 +85,7 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube rDC626tVE4E>}}
+{{< youtube jJNZGSNxyJw>}}
 
 ### 📚 Writing
 
@@ -100,7 +99,7 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ---
 
-# ⌛ Total time of my activity work: 1.5  Hour
+# ⌛ Total time of my activity work: 2  Hour
 
 ---
 

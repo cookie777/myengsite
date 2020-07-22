@@ -1,14 +1,14 @@
 ---
-# title: "Actiivty Log Mirror"
-# title: "My activity as for TOEFL;  7/11/2020"
-title: "Activity logs regarding English; Mirror"
-date: 2020-07-11T06:23:20Z
+# title: "Actiivty Log Ssd"
+# title: "My activity as for TOEFL;  7/19/2020"
+title: "Activity logs regarding English; SSD"
+date: 2020-07-19T08:21:13Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
-A mirror reflects ourselves. It has an interesting feature, which is it shows the left and right opposite. However, it doesn't reflect upside down. Some people say it shows the back and front side the opposite. A lot of people, including me confuse this fact.🚪
+SDD stands for solid-state-drive, which is a device to storge data. Those days, HDD was mainstream. HDD access much slower but much cheaper and robust compared to SSD. However, recently the technology has enhanced, and supply has changed. Therefore, SDD becomes as same as or sometimes more reasonable price and robust compared to HDD🕋
 
 ---
 
@@ -49,11 +49,11 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 - [x]  studied UX works (Udemy course 2)
 - [x]  studied CSS (grid,responsive) (Udemy course)
 - [x]  studied UI,sketch (Udemy course)
-- [x]  conducted random UIUX product
+- [x]  drove random UIUX product
 
 ### 🌎 Portfolio
 
-- [x]  creating wireframe
+- [x]  mock up
 
 # 🥚 Phase 02
 
@@ -72,21 +72,21 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  addressed about homestay
+- [x]  processed the insurance
 
 ### 💪 Exercise
 
-- [x]  push up x 20 x 2
+- [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
-- [ ]  meditation
+- [x]  meditation
 
 # 🌙 Phase 3
 
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube rDC626tVE4E>}}
+{{< youtube DLm0AkLxgjY>}}
 
 ### 📚 Writing
 
@@ -100,7 +100,7 @@ A mirror reflects ourselves. It has an interesting feature, which is it shows th
 
 ---
 
-# ⌛ Total time of my activity work: 1.5  Hour
+# ⌛ Total time of my activity work:  2  Hour
 
 ---
 
