@@ -1,14 +1,15 @@
 ---
-# title: "Actiivty Log ESIM"
-# title: "My activity as for TOEFL;  7/27/2020"
-title: "Activity logs regarding English; sSIM"
-date: 2020-07-27T09:47:11Z
+# title: "Actiivty Log Uniqlo"
+# title: "My activity as for TOEFL;  8/3/2020"
+title: "Activity logs regarding English; Uniqlo"
+date: 2020-08-03T08:07:44Z
 draft: false
 ---
 
 # 💡 Today's Topic
 
-An eSIM stands for embedded SIM, which is the updated type of SIM card. Usually, we use SIM cards to activate using a mobile phone and use the phone. To do that, we have to insert or exchange the SIM card in the mobile phone. On the other hand, eSIM doesn't have to open and insert SIM, because it's already embedded inside the phone, and you don't have to exchange it. Only you have to do is activate or register online 📱 
+Uniqlo is a clothes company than sell a wide range of clothes such as pants, shirts, shoes, hats and so on. One of the biggest traits of Uniqlo is its price. It is very reasonable against its good quality. Thus, those who seek high cost-effective clothes are recommended to buy at Uniqlo👕
+
 
 ---
 
@@ -71,7 +72,7 @@ An eSIM stands for embedded SIM, which is the updated type of SIM card. Usually,
 
 ### 🌎 Preparation for studying abroad
 
-- [x]  set up iPhone SE 2020
+- [x]  searching clothes to bring and wear in Canada
 
 ### 💪 Exercise
 
@@ -85,7 +86,7 @@ An eSIM stands for embedded SIM, which is the updated type of SIM card. Usually,
 ### 📚 Speaking
 
 - [x]  Uploaded a video about speaking I what did on the day and some topic. 
-{{< youtube xuRiPcvlvUU >}}
+{{< youtube L-VN59swfEc>}}
 
 ### 📚 Writing
 
@@ -99,7 +100,7 @@ An eSIM stands for embedded SIM, which is the updated type of SIM card. Usually,
 
 ---
 
-# ⌛ Total time of my activity work:   2 Hour
+# ⌛ Total time of my activity work:  1.5 Hour
 
 ---
 
