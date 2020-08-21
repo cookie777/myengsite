@@ -1,7 +1,7 @@
 ---
-title: "Actiivty Log Next Stage"
+title: "Activity logs; Next Stage"
 date: 2020-08-17T11:20:50Z
-draft: true
+draft: false
 ---
 
 # 💡 Today's Topic

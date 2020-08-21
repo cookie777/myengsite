@@ -1,7 +1,7 @@
 ---
-title: "Actiivty Log Backpack"
+title: "Activity logs; Backpack"
 date: 2020-08-18T14:37:55Z
-draft: true
+draft: false
 ---
 
 # 💡 Today's Topic

@@ -1,7 +1,7 @@
 ---
-title: "Actiivty Log: Air Conditioner"
+title: "Activity logs: Air Conditioner"
 date: 2020-08-19T05:23:47Z
-draft: true
+draft: false
 ---
 
 # 💡 Today's Topic

@@ -1,7 +1,7 @@
 ---
-title: "Actiivty Log;  Life"
+title: "Activity logs;  Life"
 date: 2020-08-20T02:25:43Z
-draft: true
+draft: false
 ---
 
 # 🌱 A look-back on the day
