@@ -1,7 +1,7 @@
 ---
 # title: "{{ replace .Name "-" " " | title }}"
-# title: "My activity as for TOEFL;  {{ dateFormat "1/2/2006" .Date }}"
-title: "Activity logs regarding English; "
+# title: "Dairy ;  {{ dateFormat "1/2/2006" .Date }}"
+title: "Diary {{ dateFormat "1/2/2006" .Date}}"  
 date: {{.Date }}
 draft: false
 ---
