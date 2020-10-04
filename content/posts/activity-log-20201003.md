@@ -1,10 +1,11 @@
 ---
-# title: "Activity Log 20200927"
-# title: "Dairy ;  9/27/2020"
-title: "Diary 9/27/2020"  
-date: 2020-09-27T17:48:22Z
+# title: "Activity Log 20201003"
+# title: "Dairy ;  10/3/2020"
+title: "Diary 10/3/2020"  
+date: 2020-10-03T18:34:49Z
 draft: false
 ---
+
 
 # 🌱 A look-back on the day
 
@@ -34,7 +35,7 @@ draft: false
 
 ### 🌎 Portfolio
 
-- [x]  promote
+- [x]  ４つのフェーズ
 
 # 🥚 Phase 2
 
@@ -50,23 +51,23 @@ draft: false
 ### 💪 Exercise
 
 - [x]  walking
-- [x]  push up x 20 x 2
+- [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
-- [ ]  running
-- [x]  meditation
+- [x]  running
+- [ ]  meditation
 
 # 🍎 Phase 3
 
-- [x]  participated in the online class at CICCC
+- [ ]  participated in the online class at CICCC
 
 # 🐋 Phase 4
 
-- [x]  output
-- [x]  youtube video{{<youtube Pwt7NWAyGME  >}}
+- [ ]  output
+- [x]  youtube video{{<youtube VAvI4henv0c >}}
 
 ---
 
-# ⌛ Total time of my activity work:  6 Hour
+# ⌛ Total time of my activity work: 3  Hour
 
 ---
 

@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20200927"
-# title: "Dairy ;  9/27/2020"
-title: "Diary 9/27/2020"  
-date: 2020-09-27T17:48:22Z
+# title: "Activity Log 20201001"
+# title: "Dairy ;  10/1/2020"
+title: "Diary 10/1/2020"  
+date: 2020-10-01T15:05:21Z
 draft: false
 ---
 
@@ -53,7 +53,7 @@ draft: false
 - [x]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
-- [x]  meditation
+- [ ]  meditation
 
 # 🍎 Phase 3
 
@@ -62,11 +62,11 @@ draft: false
 # 🐋 Phase 4
 
 - [x]  output
-- [x]  youtube video{{<youtube Pwt7NWAyGME  >}}
+- [x]  youtube video{{<youtube c18OwY97zYo >}}
 
 ---
 
-# ⌛ Total time of my activity work:  6 Hour
+# ⌛ Total time of my activity work:  ３ Hour
 
 ---
 

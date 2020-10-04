@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20200927"
-# title: "Dairy ;  9/27/2020"
-title: "Diary 9/27/2020"  
-date: 2020-09-27T17:48:22Z
+# title: "Activity Log 20201002"
+# title: "Dairy ;  10/2/2020"
+title: "Diary 10/2/2020"  
+date: 2020-10-02T18:28:53Z
 draft: false
 ---
 
@@ -34,7 +34,7 @@ draft: false
 
 ### 🌎 Portfolio
 
-- [x]  promote
+- [x]  
 
 # 🥚 Phase 2
 
@@ -50,10 +50,10 @@ draft: false
 ### 💪 Exercise
 
 - [x]  walking
-- [x]  push up x 20 x 2
-- [ ]  pull up (chin up) x 10 x 2
-- [ ]  running
-- [x]  meditation
+- [ ]  push up x 20 x 2
+- [x]  pull up (chin up) x 10 x 2
+- [x]  running
+- [ ]  meditation
 
 # 🍎 Phase 3
 
@@ -62,11 +62,11 @@ draft: false
 # 🐋 Phase 4
 
 - [x]  output
-- [x]  youtube video{{<youtube Pwt7NWAyGME  >}}
+- [x]  youtube video{{<youtube IJ-iWcehtAY >}}
 
 ---
 
-# ⌛ Total time of my activity work:  6 Hour
+# ⌛ Total time of my activity work:  5 Hour
 
 ---
 
