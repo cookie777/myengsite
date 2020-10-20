@@ -62,7 +62,7 @@ draft: false
 # 🐋 Phase 4
 
 - [x]  output
-- [x]  youtube video{{<youtube  /VFJ2xJzj-nU>}}
+- [x]  youtube video{{<youtube VFJ2xJzj-nU>}}
 
 ---
 
