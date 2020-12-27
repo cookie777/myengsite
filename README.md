@@ -1,6 +1,5 @@
 # Myengsite
- * Website for improving my English writing
- * using hugo
+ * Hugo blog of my daily routine note
 
 
 # Hugo command
