@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20201225"
-# title: "Dairy ;  12/25/2020"
-title: "Diary 12/25/2020"  
-date: 2020-12-25T21:02:51Z
+# title: "Activity Log 20201228"
+# title: "Dairy ;  12/28/2020"
+title: "Diary 12/28/2020"  
+date: 2020-12-28T20:48:14Z
 draft: false
 ---
 
@@ -18,7 +18,7 @@ draft: false
 ### 📚 Reading
 
 - [x]  Read articles
-- [ ]  Study English terms
+- [x]  Study English terms
 
 ### 💎 Read articles and books related to UI/UX.
 
@@ -45,10 +45,10 @@ draft: false
 
 ### 💪 Exercise
 
-- [ ]  10 sec meditation
-- [ ]  front bridge
-- [x]  walking
-- [ ]  push up x 20 x 2
+- [x]  10 sec meditation
+- [x]  front bridge
+- [ ]  walking
+- [x]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
 
@@ -57,7 +57,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [ ]  youtube video {{<youtube 7yUURmd8eHc>}}
+- [ ]  youtube video {{<youtube aq--qN6nltY>}}
 
 # 🍎 Phase 4
 

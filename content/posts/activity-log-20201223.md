@@ -57,7 +57,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtubeGyK7_WN-kaU >}}
+- [x]  youtube video {{<youtube GyK7_WN-kaU >}}
 
 # 🍎 Phase 4
 
