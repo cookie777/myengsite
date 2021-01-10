@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20210103"
-# title: "Dairy ;  1/3/2021"
-title: "Diary 1/3/2021"  
-date: 2021-01-03T20:38:54Z
+# title: "Activity Log 202109"
+# title: "Dairy ;  1/9/2021"
+title: "Diary 1/9/2021"  
+date: 2021-01-09T20:05:24Z
 draft: false
 ---
 
@@ -18,7 +18,7 @@ draft: false
 ### 📚 Reading
 
 - [x]  Read articles
-- [x]  Study English terms
+- [ ]  Study English terms
 
 ### 💎 Read articles and books related to UI/UX.
 
@@ -50,14 +50,14 @@ draft: false
 - [x]  walking
 - [x]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
-- [ ]  running
+- [x]  running
 
 # 🐋 Phase 3
 
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube dV3vrrXGzZk>}}
+- [x]  youtube video {{<youtube 2qi9FoAb2zc>}}
 
 # 🍎 Phase 4
 
@@ -65,7 +65,7 @@ Output and recording
 
 ---
 
-# ⌛ Total time of my activity work:  4 Hour
+# ⌛ Total time of my activity work: 4  Hour
 
 ---
 

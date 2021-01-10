@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20210103"
-# title: "Dairy ;  1/3/2021"
-title: "Diary 1/3/2021"  
-date: 2021-01-03T20:38:54Z
+# title: "Activity Log 20210106"
+# title: "Dairy ;  1/6/2021"
+title: "Diary 1/6/2021"  
+date: 2021-01-06T19:56:59Z
 draft: false
 ---
 
@@ -57,15 +57,15 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube dV3vrrXGzZk>}}
+- [x]  youtube video {{<youtube uZDXYEEbCP4>}}
 
 # 🍎 Phase 4
 
-- [ ]  participated in the online class at CICCC
+- [x]  participated in the online class at CICCC
 
 ---
 
-# ⌛ Total time of my activity work:  4 Hour
+# ⌛ Total time of my activity work:  8 Hour
 
 ---
 

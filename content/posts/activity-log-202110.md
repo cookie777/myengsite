@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20210103"
-# title: "Dairy ;  1/3/2021"
-title: "Diary 1/3/2021"  
-date: 2021-01-03T20:38:54Z
+# title: "Activity Log 202110"
+# title: "Dairy ;  1/10/2021"
+title: "Diary 1/10/2021"  
+date: 2021-01-10T21:08:58Z
 draft: false
 ---
 
@@ -27,7 +27,7 @@ draft: false
 ### 🎲 Enhancing programming and algorithm skills
 
 - [x]  CS
-- [ ]  Mobile, Swift
+- [x]  Mobile, Swift
 - [x]  Web, React
 - [x]  Design pattern
 - [x]  Algorithm
@@ -46,9 +46,9 @@ draft: false
 ### 💪 Exercise
 
 - [x]  10 sec meditation
-- [x]  front bridge
+- [ ]  front bridge
 - [x]  walking
-- [x]  push up x 20 x 2
+- [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
 
@@ -57,7 +57,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube dV3vrrXGzZk>}}
+- [x]  youtube video {{<youtube IPAAwMXwlrU>}}
 
 # 🍎 Phase 4
 
@@ -65,7 +65,7 @@ Output and recording
 
 ---
 
-# ⌛ Total time of my activity work:  4 Hour
+# ⌛ Total time of my activity work:  8 Hour
 
 ---
 

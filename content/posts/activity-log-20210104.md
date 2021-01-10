@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20210103"
-# title: "Dairy ;  1/3/2021"
-title: "Diary 1/3/2021"  
-date: 2021-01-03T20:38:54Z
+# title: "Activity Log 20210104"
+# title: "Dairy ;  1/4/2021"
+title: "Diary 1/4/2021"  
+date: 2021-01-04T20:29:47Z
 draft: false
 ---
 
@@ -50,22 +50,22 @@ draft: false
 - [x]  walking
 - [x]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
-- [ ]  running
+- [x]  running
 
 # 🐋 Phase 3
 
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube dV3vrrXGzZk>}}
+- [x]  youtube video {{<youtube 73e2ikjLJZg>}}
 
 # 🍎 Phase 4
 
-- [ ]  participated in the online class at CICCC
+- [x]  participated in the online class at CICCC
 
 ---
 
-# ⌛ Total time of my activity work:  4 Hour
+# ⌛ Total time of my activity work: 5  Hour
 
 ---
 
