@@ -70,7 +70,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube mU3\+Y4HJ>}}
+- [x]  youtube video {{<youtube mU3"+"Y4HJ>}}
 
 # 🍎 Phase 4
 
