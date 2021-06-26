@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20210602"
-# title: "Dairy ;  6/2/2021"
-title: "Diary 6/2/2021"  
-date: 2021-06-02T16:55:06Z
+# title: "Activity Log 20210624"
+# title: "Dairy ;  6/24/2021"
+title: "Diary 6/24/2021"  
+date: 2021-06-24T18:11:03Z
 draft: false
 ---
 
@@ -54,8 +54,8 @@ draft: false
 ### 💪 Exercise
 
 - [x]  10 sec meditation
-- [x]  front bridge
-- [ ]  walking
+- [ ]  front bridge
+- [x]  walking
 - [ ]  push up x 20 x 2
 - [ ]  pull up (chin up) x 10 x 2
 - [ ]  running
@@ -70,7 +70,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube mU3\+Y4HJ>}}
+- [x]  youtube video {{<youtube rdvyn47gps0>}}
 
 # 🍎 Phase 4
 
@@ -78,7 +78,7 @@ Output and recording
 
 ---
 
-# ⌛ Total time of my activity work: 3  Hour
+# ⌛ Total time of my activity work:  3 Hour
 
 ---
 
