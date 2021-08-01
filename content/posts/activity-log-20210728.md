@@ -1,9 +1,8 @@
 ---
-title: "Activity Log 2021"
-date: 2021-07-27T18:32:28Z
+title: "Activity Log 0728-2021"
+date: 2021-07-28T18:32:28Z
 draft: false
 ---
-
 # 🌱 A look-back on the day
 
 # 🥓 Phase 0
@@ -63,18 +62,18 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube WH3FljdUEqE>}}
+- [x]  youtube video {{<youtube FgFpOUTC6lg>}}
 
 # 🍎 Phase 4
 
 - [x]  coding practice
 - [x]  job application
-- [x]  update portfolio website
+- [ ]  update portfolio website
 - [x]  swift
 
 ---
 
-# ⌛ Total time of my activity work:   4 Hour
+# ⌛ Total time of my activity work: 3  Hour
 
 ---
 

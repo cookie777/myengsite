@@ -1,6 +1,8 @@
 ---
-title: "Activity Log 2021"
-date: 2021-07-27T18:32:28Z
+# title: "Activity Log Sample"
+# title: "Dairy ;  7/29/2021"
+title: "Diary 7/29/2021"  
+date: 2021-07-29T18:16:08Z
 draft: false
 ---
 
@@ -63,7 +65,7 @@ draft: false
 Output and recording
 
 - [x]  Twitter
-- [x]  youtube video {{<youtube WH3FljdUEqE>}}
+- [x]  youtube video {{<youtube 9aokPv33sYE>}}
 
 # 🍎 Phase 4
 
@@ -74,7 +76,7 @@ Output and recording
 
 ---
 
-# ⌛ Total time of my activity work:   4 Hour
+# ⌛ Total time of my activity work: 4  Hour
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Activity Log 2021"
 date: 2021-07-26T18:05:30Z
-draft: true
+draft: false
 ---
 
 # 🌱 A look-back on the day
