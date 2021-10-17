@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211008"
-# title: "Dairy ;  10/7/2021"
-title: "Diary 10/7/2021"
-date: 2021-10-07T17:54:47Z
+# title: "Activity Log 20211009"
+# title: "Dairy ;  10/8/2021"
+title: "Diary 10/8/2021"
+date: 2021-10-08T17:35:30Z
 draft: false
 ---
 
@@ -65,7 +65,7 @@ draft: false
 Output and recording
 
 - [x] Twitter
-- [x] youtube video {{<youtube xbTspMHHyAw>}}
+- [x] youtube video {{<youtube bAVnINZpfko>}}
 
 # 🍎 Phase 4
 

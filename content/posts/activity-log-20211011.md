@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211011"
-# title: "Dairy ;  10/10/2021"
-title: "Diary 10/10/2021"
-date: 2021-10-10T19:50:52Z
+# title: "Activity Log 20211012"
+# title: "Dairy ;  10/11/2021"
+title: "Diary 10/11/2021"
+date: 2021-10-11T18:42:58Z
 draft: false
 ---
 
@@ -27,8 +27,8 @@ draft: false
 ### 🎲 Enhancing programming and algorithm skills
 
 - [x] CS
-- [ ] Swift, iOS
-- [x] Web, Serverside
+- [x] Swift, iOS
+- [ ] Web, Serverside
 - [x] Algorithm
 
 ### 🤝Communication
@@ -65,7 +65,7 @@ draft: false
 Output and recording
 
 - [x] Twitter
-- [x] youtube video {{<youtube f4ceAf4MR6c>}}
+- [x] youtube video {{<youtube eSbLTYJzVIk>}}
 
 # 🍎 Phase 4
 
