@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211024"
-# title: "Dairy ;  10/24/2021"
-title: "Diary 10/24/2021"
-date: 2021-10-24T20:13:13Z
+# title: "Activity Log 20211027"
+# title: "Dairy ;  10/27/2021"
+title: "Diary 10/27/2021"
+date: 2021-10-27T19:27:45Z
 draft: false
 ---
 
@@ -40,7 +40,7 @@ draft: false
 
 25%
 
-- [x] Workout
+- [ ] Workout
 - [ ] Swimming
 - [ ] Medidation
 - [ ] Walking
@@ -48,7 +48,7 @@ draft: false
 # Output
 
 - [x] Twitter
-- [x] Youtube short video {{<youtube QQH6RnYANU0>}}
+- [x] Youtube short video {{<youtube Co8PL2FQRoQ>}}
 
 # ＋ α work (yesterday)
 

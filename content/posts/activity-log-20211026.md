@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211024"
-# title: "Dairy ;  10/24/2021"
-title: "Diary 10/24/2021"
-date: 2021-10-24T20:13:13Z
+# title: "Activity Log 20211026"
+# title: "Dairy ;  10/26/2021"
+title: "Diary 10/26/2021"
+date: 2021-10-26T19:45:10Z
 draft: false
 ---
 
@@ -48,12 +48,12 @@ draft: false
 # Output
 
 - [x] Twitter
-- [x] Youtube short video {{<youtube QQH6RnYANU0>}}
+- [x] Youtube short video {{<youtube A2DhW3y8oNM>}}
 
 # ＋ α work (yesterday)
 
 - [x] Somthing about company
 - Something +
   - [x] house
-  - [x] dating
+  - [ ] dating
   - [ ] create rutine after work
