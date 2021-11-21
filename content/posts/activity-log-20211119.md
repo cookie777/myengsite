@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211111"
-# title: "Dairy ;  11/11/2021"
-title: "Diary 11/11/2021"  
-date: 2021-11-11T18:39:18Z
+# title: "Activity Log 20211119"
+# title: "Dairy ;  11/19/2021"
+title: "Diary 11/19/2021"  
+date: 2021-11-19T15:57:04Z
 draft: false
 ---
 
@@ -40,15 +40,15 @@ draft: false
 
 25%
 
-- [x]  Workout
+- [ ]  Workout
 - [ ]  Swimming
 - [ ]  Medidation
-- [ ]  Walking
+- [x]  Walking
 
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L_WOhctpAPQ>}}
+- [x]  Youtube short video {{<youtube TGC8Iz-FRoo>}}
 
 # ＋α work (yesterday)
 
@@ -56,13 +56,15 @@ draft: false
 
 100%
 
-- [x]  Leetcode
+- [ ]  Leetcode
 
 33%
 
 - [ ]  Developers' video
 - [x]  iOS article
-- [ ]  iOS tech (dif page later)
+- [ ]  iOS tech
     - [ ]  auto UI test
-    - [x]  flag
     - [ ]  key chain
+    - [ ]  action
+    - [ ]  Env
+    - [ ]

@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211111"
-# title: "Dairy ;  11/11/2021"
-title: "Diary 11/11/2021"  
-date: 2021-11-11T18:39:18Z
+# title: "Activity Log 20211116"
+# title: "Dairy ;  11/16/2021"
+title: "Diary 11/16/2021"  
+date: 2021-11-16T15:51:16Z
 draft: false
 ---
 
@@ -48,7 +48,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L_WOhctpAPQ>}}
+- [x]  Youtube short video {{<youtube 6a1vik9iWtg>}}
 
 # ＋α work (yesterday)
 
@@ -64,5 +64,7 @@ draft: false
 - [x]  iOS article
 - [ ]  iOS tech (dif page later)
     - [ ]  auto UI test
-    - [x]  flag
     - [ ]  key chain
+    - [ ]  action
+    - [x]  Env
+    - [x]  button
