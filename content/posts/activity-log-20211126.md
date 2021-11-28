@@ -1,8 +1,8 @@
 ---
-# title: "Activity Log 20211111"
-# title: "Dairy ;  11/11/2021"
-title: "Diary 11/11/2021"  
-date: 2021-11-11T18:39:18Z
+# title: "Activity Log 20211126"
+# title: "Dairy ;  11/26/2021"
+title: "Diary 11/26/2021"  
+date: 2021-11-26T16:19:29Z
 draft: false
 ---
 
@@ -46,9 +46,9 @@ draft: false
 - [ ]  Walking
 
 # Output
-ugo 
+
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L_WOhctpAPQ>}}
+- [x]  Youtube short video {{<youtube wYNaf6E6kUo>}}
 
 # ＋α work (yesterday)
 
@@ -61,8 +61,9 @@ ugo
 33%
 
 - [ ]  Developers' video
-- [x]  iOS article
-- [ ]  iOS tech (dif page later)
+- [x]  iOS tech
     - [ ]  auto UI test
-    - [x]  flag
     - [ ]  key chain
+    - [ ]  action
+    - [ ]  Env
+    - [ ]
