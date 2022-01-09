@@ -95,7 +95,31 @@
       "valarray": "cpp",
       "variant": "cpp",
       "vector": "cpp",
-      "__bits": "cpp"
+      "__bits": "cpp",
+      "barrier": "cpp",
+      "cfenv": "cpp",
+      "charconv": "cpp",
+      "codecvt": "cpp",
+      "compare": "cpp",
+      "concepts": "cpp",
+      "csetjmp": "cpp",
+      "csignal": "cpp",
+      "coroutine": "cpp",
+      "latch": "cpp",
+      "numbers": "cpp",
+      "regex": "cpp",
+      "scoped_allocator": "cpp",
+      "semaphore": "cpp",
+      "shared_mutex": "cpp",
+      "span": "cpp",
+      "typeindex": "cpp",
+      "*.tcc": "cpp",
+      "cuchar": "cpp",
+      "memory_resource": "cpp",
+      "source_location": "cpp",
+      "ranges": "cpp",
+      "stop_token": "cpp",
+      "syncstream": "cpp"
     }
   }
 }
