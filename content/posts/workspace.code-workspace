@@ -12,7 +12,7 @@
   ],
   "settings": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.fontSize": 12.5,
+    "editor.fontSize": 18,
     "files.associations": {
       "ostream": "cpp",
       "__bit_reference": "cpp",
