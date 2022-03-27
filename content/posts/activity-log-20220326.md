@@ -1,0 +1,64 @@
+---
+# title: "Activity Log 20220326"
+# title: "Dairy ;  3/26/2022"
+title: "Diary 3/26/2022"  
+date: 2022-03-26T18:18:40Z
+draft: false
+---
+
+# Wake up
+
+### Small exercise
+
+- [x]  Strech
+- [x]  Crush + side
+
+### English
+
+- [x]  Read two English articles
+    - [x]  Aloud
+    - [x]  Understand the overview
+- [x]  Listen two English videos
+    - [x]  Idiom
+    - [x]  News
+- [x]  Learn English terms from books
+
+### Life enhancement
+
+- [x]  Something related to finance
+- [x]  Something related to communication
+
+# Main Exercise
+
+100%
+
+- [x]  breath
+- [x]  PC
+- [x]  back
+- [x]  eyes
+- [x]  pop
+
+25%
+
+- [ ]  Workout
+- [ ]  Meditation
+- [x]  Walking
+
+# Output
+
+- [x]  Twitter
+- [x]  Youtube short video {{<youtube 0XYEzR_MjWs>}}
+
+# ＋α work (yesterday)
+
+### Devs
+
+100%
+
+- [x]  Leetcode
+- [ ]  AtCoder
+
+33%
+
+- [ ]  Developers' video
+- [x]  iOS tech
