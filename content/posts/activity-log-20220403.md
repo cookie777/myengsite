@@ -1,10 +1,13 @@
 ---
-# title: "Activity Log 20220328"
-# title: "Dairy ;  3/28/2022"
-title: "Diary 3/28/2022"  
-date: 2022-03-28T15:35:08Z
+# title: "Activity Log 20220403"
+# title: "Dairy ;  4/3/2022"
+title: "Diary 4/3/2022"  
+date: 2022-04-03T19:50:07Z
 draft: false
 ---
+
+# Routine
+
 # Wake up
 
 ### Small exercise
@@ -46,7 +49,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube KlUhBdgYfGU>}}
+- [x]  Youtube short video {{<youtube 2UZwApS4lJU>}}
 
 # ＋α work (yesterday)
 
@@ -56,6 +59,7 @@ draft: false
 
 - [x]  Leetcode
 - [ ]  AtCoder
+- [x]  Hucker rank
 
 33%
 

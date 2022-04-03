@@ -1,10 +1,11 @@
 ---
-# title: "Activity Log 20220328"
-# title: "Dairy ;  3/28/2022"
-title: "Diary 3/28/2022"  
-date: 2022-03-28T15:35:08Z
+# title: "Activity Log 20220330"
+# title: "Dairy ;  3/30/2022"
+title: "Diary 3/30/2022"  
+date: 2022-03-30T16:20:31Z
 draft: false
 ---
+
 # Wake up
 
 ### Small exercise
@@ -39,14 +40,14 @@ draft: false
 
 25%
 
-- [ ]  Workout
+- [x]  Workout
 - [ ]  Meditation
 - [x]  Walking
 
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube KlUhBdgYfGU>}}
+- [x]  Youtube short video {{<youtube Q18DMDhMVh8>}}
 
 # ＋α work (yesterday)
 
