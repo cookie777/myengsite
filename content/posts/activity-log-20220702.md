@@ -1,9 +1,8 @@
 ---
-title: "Diary 06/26/2022"  
-date: 2022-06-26T16:32:34Z
+title: "Diary 07/02/2022"  
+date: 2022-07-02T16:32:34Z
 draft: false
 ---
-
 # Routine
 
 # Wake up
@@ -20,7 +19,7 @@ draft: false
     - [x]  Understand the overview
 - [x]  Listen two English videos
     - [x]  Idiom
-    - [x]  News
+    - [ ]  News
 - [x]  Learn English terms from books
 
 ### Life enhancement
@@ -36,7 +35,7 @@ draft: false
 - [x]  PC
 - [x]  back
 - [x]  eyes
-- [x]  pop
+- [ ]  pop
 
 25%
 
@@ -47,7 +46,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube TNsAn793YVE>}}
+- [x]  Youtube short video {{<youtube 3F26oLi6WAM >}}
 
 # ＋α work (yesterday)
 
@@ -61,5 +60,5 @@ draft: false
 
 33%
 
-- [x]  Developers' video
+- [ ]  Developers' video
 - [x]  iOS tech

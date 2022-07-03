@@ -1,11 +1,9 @@
 ---
-title: "Diary 06/26/2022"  
-date: 2022-06-26T16:32:34Z
+title: "Diary 06/29/2022"  
+date: 2022-06-29T16:32:34Z
 draft: false
 ---
-
 # Routine
-
 # Wake up
 
 ### Small exercise
@@ -47,7 +45,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube TNsAn793YVE>}}
+- [x]  Youtube short video {{<youtube y39rdMC-RQQ>}}
 
 # ＋α work (yesterday)
 
@@ -61,5 +59,5 @@ draft: false
 
 33%
 
-- [x]  Developers' video
+- [ ]  Developers' video
 - [x]  iOS tech
