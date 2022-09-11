@@ -1,10 +1,8 @@
 ---
-title: "Diary 0901/2022"  
-date: 2022-09-01T16:32:34Z
+title: "Diary 0911/2022"  
+date: 2022-09-11T16:32:34Z
 draft: false
 ---
-
-# Routine
 
 # Wake up
 
@@ -30,7 +28,7 @@ draft: false
 
 ### Just go outside
 
-- [x]  
+- [ ]  
 
 # Main Exercise
 
@@ -51,7 +49,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L3YEOpxeM8s>}}
+- [x]  Youtube short video {{<youtube 5WB-TPhDrdI>}}
 
 # ＋α work (yesterday)
 

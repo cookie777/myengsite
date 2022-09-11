@@ -1,6 +1,6 @@
 ---
-title: "Diary 0901/2022"  
-date: 2022-09-01T16:32:34Z
+title: "Diary 0910/2022"  
+date: 2022-09-10T16:32:34Z
 draft: false
 ---
 
@@ -51,7 +51,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L3YEOpxeM8s>}}
+- [x]  Youtube short video {{<youtube SJQrsNkQTQA>}}
 
 # ＋α work (yesterday)
 
@@ -59,11 +59,10 @@ draft: false
 
 100%
 
-- [x]  Leetcode
+- [ ]  Leetcode
 - [ ]  AtCoder
 - [ ]  Hacker rank
 
 33%
 
 - [ ]  Developers' video
-- [x]  iOS tech

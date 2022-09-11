@@ -1,8 +1,9 @@
 ---
-title: "Diary 0901/2022"  
-date: 2022-09-01T16:32:34Z
+title: "Diary 0905/2022"  
+date: 2022-09-05T16:32:34Z
 draft: false
 ---
+
 
 # Routine
 
@@ -51,7 +52,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L3YEOpxeM8s>}}
+- [x]  Youtube short video {{<youtube L4Wg0YJT7Gw }}
 
 # ＋α work (yesterday)
 
@@ -59,7 +60,7 @@ draft: false
 
 100%
 
-- [x]  Leetcode
+- [ ]  Leetcode
 - [ ]  AtCoder
 - [ ]  Hacker rank
 

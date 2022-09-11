@@ -1,6 +1,6 @@
 ---
-title: "Diary 0901/2022"  
-date: 2022-09-01T16:32:34Z
+title: "Diary 0904/2022"  
+date: 2022-09-04T16:32:34Z
 draft: false
 ---
 
@@ -44,14 +44,14 @@ draft: false
 
 25%
 
-- [ ]  Workout
+- [x]  Workout
 - [ ]  Meditation
 - [x]  Walking
 
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L3YEOpxeM8s>}}
+- [x]  Youtube short video {{<youtube cf2FZHhCfQU>}}
 
 # ＋α work (yesterday)
 

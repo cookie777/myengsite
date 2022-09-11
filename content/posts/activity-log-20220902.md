@@ -1,6 +1,6 @@
 ---
-title: "Diary 0901/2022"  
-date: 2022-09-01T16:32:34Z
+title: "Diary 0902/2022"  
+date: 2022-09-02T16:32:34Z
 draft: false
 ---
 
@@ -51,7 +51,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube L3YEOpxeM8s>}}
+- [x]  Youtube short video {{<youtube WJPMvy8UlLA>}}
 
 # ＋α work (yesterday)
 
