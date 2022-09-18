@@ -1,6 +1,6 @@
 ---
-title: "Diary 0910/2022"  
-date: 2022-09-10T16:32:34Z
+title: "Diary 0913/2022"  
+date: 2022-09-13T16:32:34Z
 draft: false
 ---
 
@@ -30,7 +30,7 @@ draft: false
 
 ### Just go outside
 
-- [x]  
+- [ ]  
 
 # Main Exercise
 
@@ -51,7 +51,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtube SJQrsNkQTQA>}}
+- [x]  Youtube short video {{<youtube ynJfl7VDOY0>}}
 
 # ＋α work (yesterday)
 
@@ -59,10 +59,11 @@ draft: false
 
 100%
 
-- [ ]  Leetcode
+- [x]  Leetcode
 - [ ]  AtCoder
 - [ ]  Hacker rank
 
 33%
 
-- [ ]  Developers' video
+- [x]  Developers' video
+- [x]  iOS tech
