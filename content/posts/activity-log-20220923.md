@@ -51,7 +51,7 @@ draft: false
 # Output
 
 - [x]  Twitter
-- [x]  Youtube short video {{<youtubewFEdRlun5TM >}}
+- [x]  Youtube short video {{<youtube wFEdRlun5TM >}}
 
 # ＋α work (yesterday)
 
