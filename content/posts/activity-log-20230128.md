@@ -1,6 +1,6 @@
 ---
-title: "Diary 0122/2022"  
-date: 2023-01-22T17:32:34Z
+title: "Diary 0128/2022"  
+date: 2023-01-28T17:32:34Z
 draft: false
 ---
 # Routine
@@ -40,7 +40,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube DO0Lf3c7cT8>}}
+- [x]  🎥 Youtube short video {{<youtube tf_rY9qHVXM>}}
 
 ---
 
@@ -48,29 +48,27 @@ draft: false
 
 ## Exercise
 
-- [ ]  🏃‍♀️ running or walking in the morning
-- [ ]  💪 Workout
+- [x]  🏃‍♀️ running or walking in the morning
+- [x]  💪 Workout
 - [x]  🌦 just go outside
 
 ## Devs
 
 - [x]  Tech book
 - [x]  Tech topic from read list
-- [ ]  Rust or cpp
-- [x]  Side project (image only)
+- [x]  Side project
 - [ ]  Leetcode
 - [ ]  dev-blog
 
 ### Socials
 
-- [ ]  check meet up
-- [x]  care
-    - contact lens
+- [x]  check meet up
+- [ ]  care
     - h r w
 
 ### 
 
 ## Clean up
 
-- [ ]  Small clean up
+- [x]  Small clean up
 - [x]  house
