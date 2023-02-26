@@ -1,8 +1,10 @@
 ---
-title: "Diary 0128/2023"  
-date: 2023-01-28T17:32:34Z
+title: "Diary 0225/2023"  
+date: 2023-02-25T17:32:34Z
 draft: false
 ---
+
+
 # Routine
 
 - Simple
@@ -40,7 +42,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube tf_rY9qHVXM>}}
+- [x]  🎥 Youtube short video {{<youtube qhqPRvQeZG4>}}
 
 ---
 
@@ -49,26 +51,39 @@ draft: false
 ## Exercise
 
 - [x]  🏃‍♀️ running or walking in the morning
-- [x]  💪 Workout
+- [ ]  💪 Workout
 - [x]  🌦 just go outside
 
 ## Devs
 
-- [x]  Tech book
-- [x]  Tech topic from read list
-- [x]  Side project
-- [ ]  Leetcode
-- [ ]  dev-blog
+**Community**
 
-### Socials
+- [ ]  contribution: 3pt
+- [x]  slack: 1pt
+- [x]  discord: 1pt
+- [x]  reddit: 1pt
+- [ ]  dev-blog: 3pt
+- [x]  meet up: 2pt
 
-- [x]  check meet up
-- [ ]  care
-    - h r w
+Interview
 
-### 
+- [ ]  leet code record: 3 pt
+- [ ]  interviewer: 10 pt
+- [ ]  👀 good example: 3 pt
+
+**Skill**
+
+- [ ]  Tech book: 2pt
+- [ ]  General mobile: 2p
+- [ ]  back end (udemy): 2pt
+- [ ]  Command line tool : 2pt
+- [x]  Update mentor note : 2pt
+
+## Investment
+
+- [x]  Learn step by step
 
 ## Clean up
 
 - [x]  Small clean up
-- [x]  house
+- [ ]  house

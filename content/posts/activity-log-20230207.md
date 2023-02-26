@@ -1,8 +1,9 @@
 ---
-title: "Diary 0121/2023"  
-date: 2023-01-21T17:32:34Z
+title: "Diary 0207/2023"  
+date: 2023-02-07T17:32:34Z
 draft: false
 ---
+
 # Routine
 
 - Simple
@@ -40,5 +41,35 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube zldnCGNfazs>}}
+- [x]  🎥 Youtube short video {{<youtube o3tGXyKZCWY>}}
 
+---
+
+# ＋α work (yesterday)
+
+## Exercise
+
+- [x]  🏃‍♀️ running or walking in the morning
+- [x]  💪 Workout
+- [x]  🌦 just go outside
+
+## Devs
+
+- [x]  Tech book
+- [x]  Tech topic from read list
+- [x]  Side project
+- [ ]  Leetcode
+- [x]  dev-blog
+
+### Socials
+
+- [ ]  check meet up
+- [x]  care
+    - h r w
+
+### 
+
+## Clean up
+
+- [x]  Small clean up
+- [x]  house

@@ -1,5 +1,5 @@
 ---
-title: "Diary 0118/2022"  
+title: "Diary 0118/2023"  
 date: 2023-01-18T17:32:34Z
 draft: false
 ---
@@ -41,7 +41,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube **Vissles LP85**>}}
+- [x]  🎥 Youtube short video {{<youtube FsC6GYuy1bw>}}
 
 ---
 

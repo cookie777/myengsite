@@ -1,8 +1,9 @@
 ---
-title: "Diary 0121/2023"  
-date: 2023-01-21T17:32:34Z
+title: "Diary 0213/2023"  
+date: 2023-02-13T17:32:34Z
 draft: false
 ---
+
 # Routine
 
 - Simple
@@ -40,5 +41,43 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube zldnCGNfazs>}}
+- [x]  🎥 Youtube short video {{<youtube jbrCf5k79zc>}}
 
+---
+
+# ＋α work (yesterday)
+
+## Exercise
+
+- [x]  🏃‍♀️ running or walking in the morning
+- [ ]  💪 Workout
+- [x]  🌦 just go outside
+
+## Devs
+
+**Community**
+
+- [ ]  swift-book: 3pt
+- [x]  slack: 1pt
+- [x]  discord: 1pt
+- [x]  reddit: 1pt
+- [ ]  dev-blog: 3pt
+- [ ]  meet up: 10pt
+
+Interview
+
+- [x]  leet code : 1 pt
+- [ ]  interviewer: 10 pt
+- [ ]  👀 good example: 3 pt
+
+**Skill**
+
+- [ ]  Tech book: 2pt
+- [x]  back end (udemy): 2pt
+- [ ]  Command line tool : 2pt
+- [ ]  Update mentor note : 2pt
+
+## Clean up
+
+- [ ]  Small clean up
+- [x]  house
