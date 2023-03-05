@@ -1,6 +1,6 @@
 ---
-title: "Diary 026/2023"  
-date: 2023-02-26T17:32:34Z
+title: "Diary 0304/2023"  
+date: 2023-03-04T17:32:34Z
 draft: false
 ---
 
@@ -41,7 +41,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube NgJTgYO_2UI>}}
+- [x]  🎥 Youtube short video {{<youtube t1istWVTXRg>}}
 
 ---
 
@@ -66,15 +66,15 @@ draft: false
 
 Interview
 
-- [x]  leet code : 3 pt
+- [ ]  leet code record: 3 pt
 - [ ]  interviewer: 10 pt
 - [ ]  👀 good example: 3 pt
 
 **Skill**
 
-- [x]  Tech book: 2pt
-- [x]  General mobile: 2p
-- [ ]  back end (udemy): 2pt
+- [ ]  Tech book: 2pt
+- [ ]  General mobile: 2p
+- [x]  back end: 2pt
 - [ ]  Command line tool : 2pt
 - [ ]  Update mentor note : 2pt
 

@@ -1,6 +1,6 @@
 ---
-title: "Diary 026/2023"  
-date: 2023-02-26T17:32:34Z
+title: "Diary 027/2023"  
+date: 2023-02-27T17:32:34Z
 draft: false
 ---
 
@@ -41,7 +41,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube NgJTgYO_2UI>}}
+- [x]  🎥 Youtube short video {{<youtube pVShKC23X2I>}}
 
 ---
 
@@ -62,11 +62,11 @@ draft: false
 - [x]  discord: 1pt
 - [x]  reddit: 1pt
 - [ ]  dev-blog: 3pt
-- [ ]  meet up: 2pt
+- [x]  meet up: 2pt
 
 Interview
 
-- [x]  leet code : 3 pt
+- [ ]  leet code record: 3 pt
 - [ ]  interviewer: 10 pt
 - [ ]  👀 good example: 3 pt
 
@@ -85,4 +85,4 @@ Interview
 ## Clean up
 
 - [x]  Small clean up
-- [x]  house
+- [ ]  house
