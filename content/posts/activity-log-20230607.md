@@ -1,8 +1,30 @@
 ---
-title: "Diary 0604/2023"  
-date: 2023-06-04T197:32:34Z
+title: "Diary 0607/2023"  
+date: 2023-06-07T197:32:34Z
 draft: false
 ---
+
+# Routine
+
+- Avoid neg  <<< gain pos
+- Simple
+- New / → Can
+- Reflect/ review
+
+### 🧘‍♀️Small exercise
+
+- [x]  🤸‍♂️Stretch
+- [x]  🧎‍♀️Crush + side
+
+### 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English
+
+- [x]  😮 Speak: Vocal exercise
+- [x]  📖 Read: an English article: Look over
+- [x]  📖 Read: an English article: Focus on a one whole article
+- [x]  🎧 Listen:  an English news
+- [x]  📖 Read: Terms from books
+
+### 👀 Research
 
 # Routine
 
@@ -40,7 +62,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube pTV6yVTq3V4>}}
+- [x]  🎥 Youtube short video {{<youtube hdG5LzZJaLA>}}
 
 ---
 
@@ -56,9 +78,9 @@ draft: false
 
 **Community**
 
-- [ ]  discord: 1pt
+- [x]  discord: 1pt
 - [x]  reddit: 1pt
-- [x]  slack: 1pt
+- [ ]  slack: 1pt
 - [x]  dev-blog: 3pt
 - [ ]  meet up: 2pt
 - [ ]  contribution: 3pt
@@ -70,10 +92,10 @@ Interview
 
 **Skill**
 
-- [ ]  Tech book: 2pt
-- [x]  General mobile: 2p
-- [ ]  back end: 2pt
-- [ ]  mentor: 2pt
+- [x]  Tech book: 2pt
+- [ ]  General mobile: 2p
+- [x]  back end: 2pt
+- [x]  mentor: 2pt
 
 ## Investment
 

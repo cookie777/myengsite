@@ -1,6 +1,6 @@
 ---
-title: "Diary 0604/2023"  
-date: 2023-06-04T197:32:34Z
+title: "Diary 0610/2023"  
+date: 2023-06-10T197:32:34Z
 draft: false
 ---
 
@@ -40,7 +40,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube pTV6yVTq3V4>}}
+- [x]  🎥 Youtube short video {{<youtube lLwlUtnHEW0>}}
 
 ---
 
@@ -71,9 +71,9 @@ Interview
 **Skill**
 
 - [ ]  Tech book: 2pt
-- [x]  General mobile: 2p
-- [ ]  back end: 2pt
-- [ ]  mentor: 2pt
+- [ ]  General mobile: 2p
+- [x]  back end: 2pt
+- [x]  mentor: 2pt
 
 ## Investment
 

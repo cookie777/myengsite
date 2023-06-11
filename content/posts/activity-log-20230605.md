@@ -1,6 +1,6 @@
 ---
-title: "Diary 0604/2023"  
-date: 2023-06-04T197:32:34Z
+title: "Diary 0605/2023"  
+date: 2023-06-05T197:32:34Z
 draft: false
 ---
 
@@ -40,7 +40,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube pTV6yVTq3V4>}}
+- [x]  🎥 Youtube short video {{<youtube u1BJqnXKQMQ>}}
 
 ---
 
@@ -49,14 +49,14 @@ draft: false
 ## Exercise
 
 - [x]  🏃‍♀️ running or walking in the morning
-- [ ]  💪 Workout
+- [x]  💪 Workout
 - [x]  🌦 just go outside
 
 ## Devs
 
 **Community**
 
-- [ ]  discord: 1pt
+- [x]  discord: 1pt
 - [x]  reddit: 1pt
 - [x]  slack: 1pt
 - [x]  dev-blog: 3pt
@@ -65,14 +65,14 @@ draft: false
 
 Interview
 
-- [x]  leet code: 3 pt
+- [ ]  leet code: 3 pt
 - [ ]  interviewer: 10 pt
 
 **Skill**
 
-- [ ]  Tech book: 2pt
-- [x]  General mobile: 2p
-- [ ]  back end: 2pt
+- [x]  Tech book: 2pt
+- [ ]  General mobile: 2p
+- [x]  back end: 2pt
 - [ ]  mentor: 2pt
 
 ## Investment
