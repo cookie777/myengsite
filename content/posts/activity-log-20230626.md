@@ -40,7 +40,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<Z935xi2Ks>}}
+- [x]  🎥 Youtube short video {{<youtube Z935xi2Ks>}}
 
 ---
 
