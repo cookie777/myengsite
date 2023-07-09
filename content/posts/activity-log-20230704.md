@@ -1,6 +1,6 @@
 ---
 title: "Diary 07-04/2023"  
-date: 2023-007-04T19:32:34Z
+date: 2023-07-04T19:32:34Z
 draft: false
 ---
 
