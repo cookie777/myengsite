@@ -1,6 +1,6 @@
 ---
-title: "Diary 08-27/2023"  
-date: 2023-08-27 T19:32:34Z
+title: "Diary 09-02/2023"  
+date: 2023-09-02 T19:32:34Z
 draft: false
 ---
 
@@ -18,19 +18,19 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube SxFr56-s63Q>}}
+- [x]  🎥 Youtube short video {{<youtube _WPZmshUlhw>}}
 
 # ＋α work (yesterday)
 
 ## Exercise
 
-- [ ]  🧘 PC
+- [x]  🧘 PC
 - [x]  🧘 Self observation
 - [x]  🌦 just go outside
 
 ## Devs
 
-- [ ]  tech: 2pt
+- [x]  tech: 2pt
 
 ## Social
 

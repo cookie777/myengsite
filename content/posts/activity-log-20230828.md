@@ -18,7 +18,7 @@ draft: false
 
 ### ✍️ Output
 
-- [x]  🎥 Youtube short video {{<youtube SxFr56-s63Q>}}
+- [x]  🎥 Youtube short video {{<youtube 1zpxqh9SrvA>}}
 
 # ＋α work (yesterday)
 
@@ -30,7 +30,7 @@ draft: false
 
 ## Devs
 
-- [ ]  tech: 2pt
+- [x]  tech: 2pt
 
 ## Social
 
@@ -38,4 +38,4 @@ draft: false
 
 ## Clean up
 
-- [ ]  Discard
+- [x]  Discard
