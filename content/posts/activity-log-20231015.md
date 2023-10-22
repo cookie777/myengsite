@@ -4,8 +4,6 @@ date: 2023-10-15T19:32:34Z
 draft: false
 ---
 
-# Routine v25
-
 # Routine
 
 ### 🧘‍♀️Small exercise
@@ -20,7 +18,7 @@ draft: false
 
 ### ✍️ Output
 
-- 🎥 Youtube short video {{<youtube xGiYfXZUC5U}}
+- 🎥 Youtube short video {{<youtube xGiYfXZUC5U>}}
 
 # ＋α work (yesterday)
 
