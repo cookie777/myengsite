@@ -18,7 +18,7 @@ draft: false
 
 ### ✍️ Output
 
-- 🎥 Youtube short video {{<youTube uQz9Z-HJKAQ>}}
+- 🎥 Youtube short video {{<youtube uQz9Z-HJKAQ>}}
 
 # ＋α work (yesterday)
 
