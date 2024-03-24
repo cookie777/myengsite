@@ -1,9 +1,8 @@
 ---
-title: "Diary 03-17/2024"  
-date: 2024-03-17T19:32:34Z
+title: "Diary 03-24/2024"  
+date: 2024-03-24T19:32:34Z
 draft: false
 ---
-
 
 ### 🧘‍♀️Small exercise
 
@@ -19,14 +18,14 @@ draft: false
 
 ### ✍️ Output
 
-- 🎥 Youtube short video {{<youtube Zv5JdxhKdu4>}}
+- 🎥 Youtube short video {{<youtube v92_o0U4koI>}}
 
 ---
 
 # ＋α work (yesterday)
 
 - [ ]  🧘 Mediation
-- [x]  S
+- [ ]  S
     - [x]  Bu
     - [x]  Pp
     - [x]  He
