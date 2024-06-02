@@ -1,8 +1,8 @@
 ---
-title: "Diary 05-20/2024"  
-date: 2024-05-20T19:32:34Z
+title: "Diary 05-22/2024"  
+date: 2024-05-22T19:32:34Z
 draft: false
---
+---
 
 ### 🧘‍♀️Small exercise
 
@@ -16,7 +16,7 @@ draft: false
 
 ### ✍️ Output
 
-- 🎥  https://youtu.be/xLvdSFii2gc
+- 🎥  https://youtu.be/hxxrv39D_1Q
 
 ---
 
@@ -24,28 +24,29 @@ draft: false
 
 ### Exercise
 
-- [x]  🧘 Mediation
-- [ ]  Run
-- [ ]  Work out
+- [ ]  🧘 Mediation
+- [x]  Cardio
+- [x]  Work out
 - [x]  posture fix
+- [ ]  squat
 
 ### Communication
 
-- [ ]  Shi
-- [x]  Ada
+- [x]  Shi
+- [ ]  Ada
 - [ ]  Book
 
 ### Tech
 
-- [ ]  Hands on
+- [x]  Hands on
 - [x]  Tech Book
-- [x]  Out put
+- [ ]  Out put
     - blog post
     - LinkedIn
-- [ ]  Job Candidate
+- [x]  Job Candidate
 - [ ]  System Design
 
 ### Clean up
 
-- [x]  Discard one thing  or
+- [ ]  Discard one thing  or
 - [ ]  Sell

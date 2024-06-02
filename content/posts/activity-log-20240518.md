@@ -18,7 +18,7 @@ draft: false
 
 ### ✍️ Output
 
-- 🎥 Youtube short video {{<youtube 9MTysXxYH8w>}}
+- 🎥 Youtube short video {{<youtube Iz1KRgjLU_I>}}
 
 ---
 
@@ -37,7 +37,7 @@ draft: false
 - [x]  Hands on
 - [ ]  System Design:  (later hands on instead
     - [ ]  Web Crawler
-- [ ]  Job Candidate
+- [x]  Job Candidate
 
 ## Clean up
 
