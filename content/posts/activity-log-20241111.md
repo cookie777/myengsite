@@ -1,6 +1,6 @@
 ---
-title: "Diary 11-09/2024"  
-date: 2024-11-09T19:32:34Z
+title: "Diary 11-11/2024"  
+date: 2024-11-11T19:32:34Z
 draft: false
 ---
 
